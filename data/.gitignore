@@ -1,5 +1,5 @@
+openai_key.py
 data/
+*.json
 __pycache__/
 *.pyc
-openai_key.py
-*.json
