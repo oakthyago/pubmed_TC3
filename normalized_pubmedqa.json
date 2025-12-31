@@ -2117,6 +2117,2166 @@
       "question": "Is determination between complete and incomplete traumatic spinal cord injury clinically relevant?",
       "normalized_answer": "The combination of acute phase voluntary anal contraction and S4-5 LT and PP scores predicts chronic phase-independent ambulation outcomes better than the distinction between complete and incomplete SCI.",
       "final_decision": "maybe"
+    },
+    {
+      "pmid": "26852225",
+      "question": "Is adjustment for reporting heterogeneity necessary in sleep disorders?",
+      "normalized_answer": "Correction for reporting heterogeneity using anchoring vignettes is not necessary for managing sleep and energy related problems among Japanese adults.",
+      "final_decision": "no"
+    },
+    {
+      "pmid": "25432938",
+      "question": "Did Chile's traffic law reform push police enforcement?",
+      "normalized_answer": "Traffic law reforms were associated with a decrease in traffic fatalities and severe injuries when combined with increased police traffic enforcement.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "18239988",
+      "question": "Differentiation of nonalcoholic from alcoholic steatohepatitis: are routine laboratory markers useful?",
+      "normalized_answer": "Higher MCVs and AST/ALT ratios in ASH do not differentiate NASH from ASH but may guide patient selection for liver biopsy and therapy.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "10575390",
+      "question": "Do follow-up recommendations for abnormal Papanicolaou smears influence patient adherence?",
+      "normalized_answer": "Adherence to follow-up was low in this study population, but improved with up to 3 reminders. Allocating resources to improve adherence may be more crucial than the type of follow-up procedure recommended.",
+      "final_decision": "no"
+    },
+    {
+      "pmid": "11340218",
+      "question": "Does pretreatment with statins improve clinical outcome after stroke?",
+      "normalized_answer": "Pretreatment with statins did not show a statistically significant improvement in clinical outcome after stroke in this observational study.",
+      "final_decision": "no"
+    },
+    {
+      "pmid": "9381529",
+      "question": "Immune suppression by lysosomotropic amines and cyclosporine on T-cell responses to minor and major histocompatibility antigens: does synergy exist?",
+      "normalized_answer": "Lysosomotropic amines combined with cyclosporine show synergistic suppression of T-cell proliferation to minor and major histocompatibility antigens. Chloroquine combined with cyclosporine may enhance graft-versus-host disease control.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": 11570976,
+      "question": "Is it Crohn's disease?",
+      "normalized_answer": "The case discussed is about severe systemic reactions to sulfasalazine in a 21-year-old female with rheumatoid arthritis, not Crohn's disease.",
+      "final_decision": "maybe"
+    },
+    {
+      "pmid": "27287237",
+      "question": "Assessment of appropriate antimicrobial prescribing: do experts agree?",
+      "normalized_answer": "Specialists in infectious diseases and clinical microbiology show acceptable agreement and validity when assessing the appropriateness of antimicrobial prescribing, regardless of their experience or hospital. However, there is room for improvement that should be addressed in discussions and education.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": 15530261,
+      "question": "Does screening or surveillance for primary hepatocellular carcinoma with ultrasonography improve the prognosis of patients?",
+      "normalized_answer": "Ultrasonographic screening for hepatocellular carcinoma showed a significant impact on reducing mortality, suggesting that early detection with ultrasound may improve patient prognosis.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "25588461",
+      "question": "Can transcranial direct current stimulation be useful in differentiating unresponsive wakefulness syndrome from minimally conscious state patients?",
+      "normalized_answer": "Transcranial direct current stimulation (tDCS) may help identify residual connectivity markers in clinically-defined unresponsive wakefulness syndrome (UWS) patients who lack purposeful behavior due to motor-output failure.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "11411430",
+      "question": "Antral follicle assessment as a tool for predicting outcome in IVF--is it a better predictor than age and FSH?",
+      "normalized_answer": "Antral follicle assessment is a better predictor of in vitro fertilization outcome compared to age and basal follicle-stimulating hormone levels.",
+      "final_decision": "maybe"
+    },
+    {
+      "pmid": "1571683",
+      "question": "Is storage of vaccines in the community a weak link in the cold chain?",
+      "normalized_answer": "Vaccines in the community were exposed to inappropriate temperatures, potentially affecting their potency. Adherence to storage guidelines, provision of proper equipment, and staff training are crucial for maintaining the cold chain and ensuring vaccine efficacy.",
+      "final_decision": "maybe"
+    },
+    {
+      "pmid": 28143468,
+      "question": "Are performance measurement systems useful?",
+      "normalized_answer": "The strategic use of Performance Measurement Systems (PMS) in health care organizations can enhance performance in terms of improved processes and help managers allocate their time effectively.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": 8910148,
+      "question": "Transesophageal echocardiographic assessment of left ventricular function in brain-dead patients: are marginally acceptable hearts suitable for transplantation?",
+      "normalized_answer": "TEE is valuable for evaluating left ventricular function in brain-dead donors. About 36% of potential heart donors have an FAC below 50%. Left ventricular dysfunction can improve post-transplantation, so an FAC <50% may not rule out heart suitability for transplantation.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "26222664",
+      "question": "Does the Deformity Angular Ratio correlate with high-risk cases for potential spinal cord monitoring alerts in pediatric 3-column thoracic spinal deformity corrective surgery?",
+      "normalized_answer": "The Deformity Angular Ratio (DAR) was predictive of patients developing intraoperative motor evoked potential alerts in pediatric patients undergoing 3-column osteotomies for severe spinal deformities.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": 9767546,
+      "question": "Autoxidation products of both carbohydrates and lipids are increased in uremic plasma: is there oxidative stress in uremia?",
+      "normalized_answer": "Increased levels of advanced glycation end products in uremia suggest a broad derangement in non-enzymatic biochemistry involving alterations in autoxidation of both carbohydrates and lipids.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "18179827",
+      "question": "Does topical ropivacaine reduce the post-tonsillectomy morbidity in pediatric patients?",
+      "normalized_answer": "Topical 1.0% ropivacaine administration significantly relieves pain in pediatric tonsillectomy without causing complications or systemic side effects.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "26485091",
+      "question": "Does the use of atypical antipsychotics as adjunctive therapy in depression result in cost savings?",
+      "normalized_answer": "Atypical antipsychotics as second-line treatment for depression did not result in cost savings or fewer inpatient and ED visits compared to other treatment strategies.",
+      "final_decision": "no"
+    },
+    {
+      "pmid": "25007420",
+      "question": "Are there mental health differences between francophone and non-francophone populations in Manitoba?",
+      "normalized_answer": "Francophones in Manitoba had lower rates of diagnosed substance use disorder and suicide attempts compared to non-Francophones, but no differences were found in rates of diagnosed mood disorders, anxiety disorders, dementia, or any mental disorders after adjusting for age, sex, and geographic area. Francophones were also less likely to rate their mental health as excellent, very good, or good compared to non-Francophones.",
+      "final_decision": "maybe"
+    },
+    {
+      "pmid": "15670262",
+      "question": "Is gastric electrical stimulation superior to standard pharmacologic therapy in improving GI symptoms, healthcare resources, and long-term health care benefits?",
+      "normalized_answer": "Gastric electrical stimulation (GES) is more effective than intensive medical therapy in improving long-term GI symptoms, reducing healthcare resource utilization, and lowering costs in patients with gastroparesis (GP) over a 3-year follow-up period.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "11413427",
+      "question": "Does transverse apex coincide with coronal apex levels (regional or global) in adolescent idiopathic scoliosis?",
+      "normalized_answer": "The study showed that the most rotated level may differ from the regional or global apex by up to two levels for the global apex and one level for the regional apex.",
+      "final_decision": "no"
+    },
+    {
+      "pmid": "11566686",
+      "question": "In vivo visualization of pyloric mucosal hypertrophy in infants with hypertrophic pyloric stenosis: is there an etiologic role?",
+      "normalized_answer": "Mucosal redundancy is a common finding in infants with hypertrophic pyloric stenosis. The study suggests a possible link between mucosal thickening and the development of the condition.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": 21850494,
+      "question": "Hepatorenal syndrome: are we missing some prognostic factors?",
+      "normalized_answer": "ESLD etiology, serum creatinine, and urinary sodium levels at diagnosis were identified as prognostic factors for survival in type 1 HRS.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "23588461",
+      "question": "Should ascitis volume and anthropometric measurements be estimated in hospitalized alcoholic cirrotics?",
+      "normalized_answer": "Ascitis volume and anthropometric measurements should be estimated in hospitalized alcoholic cirrhotics as they have demonstrated a significant association with long-term rehospitalization and mortality.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "11926574",
+      "question": "Are hepatitis G virus and TT virus involved in cryptogenic chronic liver disease?",
+      "normalized_answer": "Hepatitis G virus infection is widespread among patients with chronic hepatitis in Southern Italy, but its frequency in cryptogenic liver disease is similar to hepatitis C virus chronic liver disease, suggesting no aetiologic role. TT virus infection is uncommon in patients with cryptogenic or hepatitis C virus-related liver disease without parenteral exposure history.",
+      "final_decision": "no"
+    },
+    {
+      "pmid": "18594195",
+      "question": "Do older patients who refuse to participate in a self-management intervention in the Netherlands differ from older patients who agree to participate?",
+      "normalized_answer": "Refusal to participate in the self-management intervention was higher among older patients with mobility restrictions, living further away, and having a partner. Reasons for refusal included lack of time, travel distance, and transport issues.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "21481154",
+      "question": "Improvements in survival of gynaecological cancer in the Anglia region of England: are these an effect of centralisation of care and use of multidisciplinary management?",
+      "normalized_answer": "The adoption of 1999 guidance on gynaecological cancer, including multidisciplinary case management and centralisation of surgery, led to a significant improvement in survival of gynaecological cancer in an area of eastern England in 2000.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "21398266",
+      "question": "Do symptoms matter when considering patients for phase I clinical trials?",
+      "normalized_answer": "Symptoms may impact outcomes for older adults with advanced cancer enrolled in phase I clinical trials.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "25371231",
+      "question": "Is vitamin D insufficiency or deficiency related to the development of osteochondritis dissecans?",
+      "normalized_answer": "Vitamin D3 deficiency may be involved in the development of osteochondritis dissecans lesions, suggesting a potential role in disease progression.",
+      "final_decision": "maybe"
+    },
+    {
+      "pmid": "23252468",
+      "question": "Do episodic migraineurs selectively attend to headache-related visual stimuli?",
+      "normalized_answer": "Episodic migraineurs do not show a selective attention to headache-related visual stimuli based on the study results.",
+      "final_decision": "no"
+    },
+    {
+      "pmid": "22440363",
+      "question": "Mitral replacement or repair for functional mitral regurgitation in dilated and ischemic cardiomyopathy: is it really the same?",
+      "normalized_answer": "In patients with advanced dilated and ischemic cardiomyopathy and severe functional MR, MV replacement is associated with higher in-hospital and late mortality compared with MV repair. Mitral repair should be preferred whenever possible in this clinical setting.",
+      "final_decision": "no"
+    },
+    {
+      "pmid": "12068831",
+      "question": "Do nontriploid partial hydatidiform moles exist?",
+      "normalized_answer": "Nontriploid partial hydatidiform moles probably do not exist, as reevaluation of specimens will likely reveal errors in pathology or ploidy.",
+      "final_decision": "no"
+    },
+    {
+      "pmid": "20530150",
+      "question": "Is cholecystectomy really an indication for concomitant splenectomy in mild hereditary spherocytosis?",
+      "normalized_answer": "Reconsider the need for concomitant splenectomy in children with mild hereditary spherocytosis undergoing cholecystectomy for symptomatic gallstones. Evaluate the necessity of splenectomy individually, especially with the advancements in minimal access surgery.",
+      "final_decision": "no"
+    },
+    {
+      "pmid": "21618245",
+      "question": "Does surgery or radiation therapy impact survival for patients with extrapulmonary small cell cancers?",
+      "normalized_answer": "Surgery and radiation therapy have been shown to significantly improve median, 5- and 10-year survival rates for patients with extrapulmonary small cell carcinomas.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "26085176",
+      "question": "MR Diagnosis of Bone Metastases at 1.5 T and 3 T: Can STIR Imaging Be Omitted?",
+      "normalized_answer": "In adults, the whole-body MRI protocol for detecting bone metastases can be limited to the T1w sequence, particularly at 3 T, without the need for an additional STIR sequence.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "18158048",
+      "question": "Histologic evaluation of the testicular remnant associated with the vanishing testes syndrome: is surgical management necessary?",
+      "normalized_answer": "A significant number of testicular remnants associated with the vanishing testes syndrome can contain viable germ cell elements or seminiferous tubules, with potential for malignant transformation. Surgical removal is recommended due to the risk of malignant degeneration.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "21256734",
+      "question": "Does pain intensity predict a poor opioid response in cancer patients?",
+      "normalized_answer": "Baseline pain intensity does not predict the outcome after opioid titration in cancer patients.",
+      "final_decision": "no"
+    },
+    {
+      "pmid": "28027677",
+      "question": "Do prerecorded lecture VODcasts affect lecture attendance of first-year pre-clinical Graduate Entry to Medicine students?",
+      "normalized_answer": "The provision of prerecorded lecture video podcasts (VODcasts) to first-year Graduate Entry to Medicine (GEM) students did not significantly impact attendance at live lectures, with most students considering VODcasts as useful revision tools rather than replacements for live lectures.",
+      "final_decision": "no"
+    },
+    {
+      "pmid": "17595200",
+      "question": "Is there an intrauterine influence on obesity?",
+      "normalized_answer": "Intergenerational acceleration mechanisms do not significantly contribute to childhood BMI levels within the population.",
+      "final_decision": "no"
+    },
+    {
+      "pmid": "26548832",
+      "question": "Assessing Patient Reported Outcomes Measures via Phone Interviews Versus Patient Self-Survey in the Clinic: Are We Measuring the Same Thing?",
+      "normalized_answer": "There is high reliability between patient-reported outcomes data captured via full-time employee (FTE)-dependent and non-FTE-dependent methodologies.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "15879722",
+      "question": "Is cytokeratin immunoreactivity useful in the diagnosis of short-segment Barrett's oesophagus in Korea?",
+      "normalized_answer": "Cytokeratin 7/20 pattern can be a useful marker for diagnosing short-segment Barrett's oesophagus, with a sensitivity of 77.8% and specificity of 77.5%.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "27554179",
+      "question": "Is routine dissection of the station 9 lymph nodes really necessary for primary lung cancer?",
+      "normalized_answer": "Metastasis rate of station 9 lymph nodes is significantly lower than other mediastinal stations in lung cancer. Metastasis status of station 9 has no significant influence on staging or prognosis. Routine dissection of station 9 nodes may not be necessary, especially in certain patient groups.",
+      "final_decision": "no"
+    },
+    {
+      "pmid": "15381614",
+      "question": "Cutaneous melanoma in a multiethnic population: is this a different disease?",
+      "normalized_answer": "Cutaneous melanoma in nonwhite persons in a multiethnic population presents differently from white persons, with thicker tumors, more ulcerated primary tumors, more positive nodes, and advanced stages. Survival rates are worse for nonwhite patients overall, but similar when stratified by stage at diagnosis.",
+      "final_decision": "maybe"
+    },
+    {
+      "pmid": "22012962",
+      "question": "Marital status, living arrangement and mortality: does the association vary by gender?",
+      "normalized_answer": "Evaluation of living arrangements is crucial for identifying and explaining gender differences in mortality risks by marital status.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "18948835",
+      "question": "Does somatostatin confer insulinostatic effects of neuromedin u in the rat pancreas?",
+      "normalized_answer": "Somatostatin mediates the inhibitory action of neuromedin U on insulin secretion in the rat pancreas.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "18435678",
+      "question": "Kell alloimmunization in pregnancy: associated with fetal thrombocytopenia?",
+      "normalized_answer": "Fetuses with severe anaemia due to Kell alloimmunization are generally not at risk for substantial thrombocytopenia compared to fetuses with severe anaemia and hydrops due to RhD alloimmunization.",
+      "final_decision": "no"
+    },
+    {
+      "pmid": "19268855",
+      "question": "Application of computer-aided diagnosis (CAD) in MR-mammography (MRM): do we really need whole lesion time curve distribution analysis?",
+      "normalized_answer": "The integration of whole-lesion dynamic data tends to improve specificity, but this finding lacks statistical significance.",
+      "final_decision": "no"
+    },
+    {
+      "pmid": "12238307",
+      "question": "Vaccine protection in the elderly: are Austrian seniors adequately protected by vaccinations?",
+      "normalized_answer": "The study shows that elderly individuals in Austria are often inadequately protected against infectious diseases despite vaccination, with low antibody concentrations and short-lasting immunity observed in many cases.",
+      "final_decision": "no"
+    },
+    {
+      "pmid": "20684175",
+      "question": "Does vitamin D supplementation increase regulatory T cells in apparently healthy subjects?",
+      "normalized_answer": "Vitamin D supplementation significantly increased %Tregs in apparently healthy individuals, suggesting a potential immunomodulatory effect that may be relevant to autoimmune diseases.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "27216167",
+      "question": "Is contact with specialist care for gynecological cancer alarm symptoms associated with lifestyle and socioeconomic status?",
+      "normalized_answer": "Educational level influences contact with specialist care among patients with gynecological cancer alarm symptoms.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "19852337",
+      "question": "Does elective re-siting of intravenous cannulae decrease peripheral thrombophlebitis?",
+      "normalized_answer": "Elective re-siting of intravenous cannulae every 48 hours significantly reduces the incidence and severity of peripheral venous thrombophlebitis.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "22680064",
+      "question": "Can third trimester ultrasound predict the presentation of the first twin at delivery?",
+      "normalized_answer": "Sonogram can predict the presentation of the first twin at delivery by the 32nd week of gestation in over 90% of twin pregnancies.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": 25417760,
+      "question": "Risk factors for major depression during midlife among a community sample of women with and without prior major depression: are they the same or different?",
+      "normalized_answer": "Menopausal transition, health factors, and vasomotor symptoms are important risk factors for first lifetime-onset of major depressive disorder during midlife. Peri- and post-menopausal status, psychological symptoms, and prior anxiety disorder are predominant risk factors for major depressive disorder recurrence.",
+      "final_decision": "no"
+    },
+    {
+      "pmid": "22365295",
+      "question": "Totally implantable venous access device placement by interventional radiologists: are prophylactic antibiotics necessary?",
+      "normalized_answer": "Prophylactic antibiotics for totally implantable venous access device placement may not be necessary as the rate of early infection without antibiotic prophylaxis is less than 1%.",
+      "final_decision": "no"
+    },
+    {
+      "pmid": "15125825",
+      "question": "Starting insulin in type 2 diabetes: continue oral hypoglycemic agents?",
+      "normalized_answer": "Adding bedtime NPH insulin to maximal therapy with sulfonylurea and metformin is an effective approach for uncontrolled type 2 diabetes.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "24652474",
+      "question": "Clinical identifiers for early-stage primary/idiopathic adhesive capsulitis: are we seeing the real picture?",
+      "normalized_answer": "None of the clinical identifiers for early-stage adhesive capsulitis previously proposed have been validated in this study.",
+      "final_decision": "no"
+    },
+    {
+      "pmid": "24947183",
+      "question": "Does delaying surgery in immature adolescent idiopathic scoliosis patients with progressive curve lead to addition of fusion levels?",
+      "normalized_answer": "Delaying surgery in immature adolescent idiopathic scoliosis patients with progressive curve can lead to changes in curve pattern and an increase in fusion levels.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "25779009",
+      "question": "Bactericidal activity of 3 cutaneous/mucosal antiseptic solutions in the presence of interfering substances: Improvement of the NF EN 13727 European Standard?",
+      "normalized_answer": "Adapting the NF EN 13727 standard allowed assessing the 3 tested solutions: only CB was bactericidal in dirty conditions.",
+      "final_decision": "maybe"
+    },
+    {
+      "pmid": "17105833",
+      "question": "Should fluoroquinolones be considered for empiric treatment of uncomplicated UTI in older women in Israel?",
+      "normalized_answer": "Fluoroquinolones may no longer be appropriate for empiric treatment of UTI in older women in Israel, considering the increasing resistance rates of Escherichia coli to ofloxacin.",
+      "final_decision": "maybe"
+    },
+    {
+      "pmid": 27338535,
+      "question": "Do risk calculators accurately predict surgical site occurrences?",
+      "normalized_answer": "Existing predictive models have limited ability to accurately assess risk of surgical site occurrences (SSO) after open ventral hernia repair. The Ventral Hernia Risk Score (VHRS) and American College of Surgeons National Surgical Quality Improvement Program (ACS-NSQIP) show modest success in identifying patients at risk for surgical site infection (SSI). Further refinement of these models is necessary for improved accuracy.",
+      "final_decision": "no"
+    },
+    {
+      "pmid": "27690714",
+      "question": "Can EMS Providers Provide Appropriate Tidal Volumes in a Simulated Adult-sized Patient with a Pediatric-sized Bag-Valve-Mask?",
+      "normalized_answer": "Ventilating an adult patient with a pediatric-sized BVM is feasible. Tidal volumes with the pediatric BVM were consistent with lung-protective ventilation volumes.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "21346501",
+      "question": "Can students' scores on preclerkship clinical performance examinations predict that they will fail a senior clinical performance examination?",
+      "normalized_answer": "Preclerkship (year 2) CPEs strongly predicted medical students at risk for failing a senior CPE.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "24964725",
+      "question": "Recovery Outcome Measures: Is There a Place for Culture, Attitudes, and Faith?",
+      "normalized_answer": "The paper discusses the cultural appropriateness of the Recovery Attitudes Questionnaire (RAQ) in Australian settings and the importance of developing inclusive recovery outcome measures.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "18708308",
+      "question": "Can surgeon familiarization with current evidence lead to a change in practice?",
+      "normalized_answer": "Mailing a summary of current evidence to surgeons did not lead to a change in practice regarding prophylactic nasogastric decompression in elective colonic resections.",
+      "final_decision": "no"
+    },
+    {
+      "pmid": "11759976",
+      "question": "Should second-look laparotomy be offered to Thai women with advanced epithelial ovarian carcinoma?",
+      "normalized_answer": "Second-look laparotomy does not significantly improve overall and disease-free survival in patients with advanced epithelial ovarian carcinoma. Tumor grade is the main prognostic factor for survival.",
+      "final_decision": "no"
+    },
+    {
+      "pmid": "16319544",
+      "question": "Is high-sensitivity C-reactive protein associated with carotid atherosclerosis in healthy Koreans?",
+      "normalized_answer": "There was no independent association found between high-sensitivity C-reactive protein levels and carotid intima-media thickness in healthy Korean adults.",
+      "final_decision": "no"
+    },
+    {
+      "pmid": "20674150",
+      "question": "Validation of the 2009 TNM version in a large multi-institutional cohort of patients treated for renal cell carcinoma: are further improvements needed?",
+      "normalized_answer": "The seventh edition of the primary tumor staging system for kidney tumors is a strong predictor of cancer-specific survival. However, some substages have similar outcomes, and others include patients with varying prognoses. The limited modifications in this edition may not have addressed the main concerns from the previous version.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "25336163",
+      "question": "Are interstitial fluid concentrations of meropenem equivalent to plasma concentrations in critically ill patients receiving continuous renal replacement therapy?",
+      "normalized_answer": "Interstitial fluid concentrations of meropenem were significantly lower than plasma concentrations in critically ill patients receiving continuous renal replacement therapy.",
+      "final_decision": "no"
+    },
+    {
+      "pmid": "25887165",
+      "question": "Does Sensation Return to the Nasal Tip After Microfat Grafting?",
+      "normalized_answer": "Nasal tip sensation typically improves over a 3-month period following microfat injections.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "12947068",
+      "question": "Do older men benefit from curative therapy of localized prostate cancer?",
+      "normalized_answer": "Potentially curative therapy improves life expectancy and quality-adjusted life expectancy for older men with localized prostate cancer, especially those with few comorbidities and moderately or poorly differentiated tumors.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "16776337",
+      "question": "Pituitary apoplexy: do histological features influence the clinical presentation and outcome?",
+      "normalized_answer": "Patients with pituitary tumor infarction alone had less severe clinical features on presentation, a longer course prior to presentation, and a better outcome compared to those with hemorrhagic infarction or frank hemorrhage. Endocrine replacement requirements were similar in both groups.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "22668852",
+      "question": "Do African American women require fewer calories to maintain weight?",
+      "normalized_answer": "The study found no difference in caloric intake between African American and non-African American women, contradicting the belief that African American women require fewer calories to maintain weight.",
+      "final_decision": "no"
+    },
+    {
+      "pmid": 25251991,
+      "question": "Emergency double-balloon enteroscopy combined with real-time viewing of capsule endoscopy: a feasible combined approach in acute overt-obscure gastrointestinal bleeding?",
+      "normalized_answer": "Emergency double-balloon enteroscopy is feasible, safe, and effective in acute overt-severe gastrointestinal bleeding, diagnosing and treating most patients successfully. Real-time viewing by capsule endoscopy is useful in identifying recurrent bleeding vascular lesions like Dieulafoy's lesion that may be missed by non-emergency enteroscopy.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "7497757",
+      "question": "Cardiopulmonary bypass temperature does not affect postoperative euthyroid sick syndrome?",
+      "normalized_answer": "The study suggests that normothermic CPB does not prevent the development of euthyroid sick syndrome during and after CPB, with most patients having a normal postoperative recovery.",
+      "final_decision": "no"
+    },
+    {
+      "pmid": "8262881",
+      "question": "Body dysmorphic disorder: does it have a psychotic subtype?",
+      "normalized_answer": "Body dysmorphic disorder may have a psychotic subtype that significantly overlaps with, or may even be the same disorder as, the BDD variant of delusional disorder, somatic type.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "11943048",
+      "question": "Does receipt of hospice care in nursing homes improve the management of pain at the end of life?",
+      "normalized_answer": "Hospice residents were twice as likely as nonhospice residents to receive regular treatment for daily pain, suggesting better analgesic management in hospice.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "20306735",
+      "question": "Fulfilling human resources development goal in West Africa: can the training of ophthalmologist diplomates be improved?",
+      "normalized_answer": "The ODT program provides ophthalmic manpower for secondary eye care despite challenges. Stakeholders should address the program's issues to enhance it.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "23414523",
+      "question": "Does binge drinking during early pregnancy increase the risk of psychomotor deficits?",
+      "normalized_answer": "No systematic association was found between isolated episodes of binge drinking during early pregnancy and child motor function at age 5.",
+      "final_decision": "no"
+    },
+    {
+      "pmid": "11882828",
+      "question": "Does tranexamic acid reduce desmopressin-induced hyperfibrinolysis?",
+      "normalized_answer": "Tranexamic acid administration reduces desmopressin and bypass-induced hyperfibrinolysis, leading to decreased postoperative blood loss and transfusion requirement.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "24939676",
+      "question": "Does ultrasound-scored synovitis depend on the pharmacokinetics of subcutaneous anti-TNF agents in patients with rheumatoid arthritis?",
+      "normalized_answer": "The study results indicate that subcutaneous anti-TNF pharmacokinetics do not significantly affect ultrasound-scored synovitis in rheumatoid arthritis patients.",
+      "final_decision": "no"
+    },
+    {
+      "pmid": "17076590",
+      "question": "Counter sampling combined with medical provider education: do they alter prescribing behavior?",
+      "normalized_answer": "Education by pharmacists, combined with access to counter samples, may or may not have an effect on medical provider prescribing, depending on the category of medication targeted for cost control.",
+      "final_decision": "maybe"
+    },
+    {
+      "pmid": "21745056",
+      "question": "Has medical education curriculum influenced medical students' skills and attitudes toward culturally diverse populations?",
+      "normalized_answer": "The study found significant differences in skills and attitudes between Pathway and non-Pathway students, with Pathway students showing increased confidence, likely due to exposure to the program.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "22979954",
+      "question": "Failed IUD insertions in community practice: an under-recognized problem?",
+      "normalized_answer": "The study suggests a high rate of unsuccessful IUD insertions, especially in nulliparous women, when additional tools for difficult insertions are not used. Further research is needed to determine the extent of this issue and evaluate the effectiveness of adjuvant measures in reducing unsuccessful IUD insertions.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "22955530",
+      "question": "Type II supracondylar humerus fractures: can some be treated nonoperatively?",
+      "normalized_answer": "Less severe pediatric type II supracondylar humerus fractures can be successfully treated without surgery if closely monitored. Fractures with specific characteristics like rotational deformity, coronal malalignment, and significant distal fragment extension are more likely to require surgical intervention.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "18507507",
+      "question": "The promise of specialty pharmaceuticals: are they worth the price?",
+      "normalized_answer": "Specialty pharmaceuticals may represent a good health care value when used in targeted patient populations.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "17323047",
+      "question": "Does invasive diagnosis of nosocomial pneumonia during off-hours delay treatment?",
+      "normalized_answer": "Invasive lung specimen collection for suspected ventilator-associated pneumonia during off-hours did not delay the time to first appropriate antibiotic administration.",
+      "final_decision": "no"
+    },
+    {
+      "pmid": "24851767",
+      "question": "Does age at orchiopexy affect testicular survival without atrophy in patients with undescended testes?",
+      "normalized_answer": "Age at orchiopexy was not found to significantly affect testicular atrophy in patients less than 13 months old.",
+      "final_decision": "no"
+    },
+    {
+      "pmid": "12006913",
+      "question": "Do lipids, blood pressure, diabetes, and smoking confer equal risk of myocardial infarction in women as in men?",
+      "normalized_answer": "Cholesterol showed similar relative risk for myocardial infarction in both sexes. However, women had higher relative risk for smoking, diabetes, elevated triglycerides, and left ventricular hypertrophy.",
+      "final_decision": "no"
+    },
+    {
+      "pmid": "8245806",
+      "question": "Does family practice at residency teaching sites reflect community practice?",
+      "normalized_answer": "Residency training sites at Northeastern Ohio Universities College of Medicine offer patient care opportunities similar to those in a national survey of family and general practitioners.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "17691856",
+      "question": "Midwives' competence: is it affected by working in a rural location?",
+      "normalized_answer": "A comparative questionnaire survey found that midwives in rural and urban settings reported similar levels of competence, with some differences in specific competencies. Midwives in rural areas were more likely to report competence in breech delivery, while urban midwives reported competence in skills like intravenous fluid replacement and newborn examination. Both groups faced barriers to professional development, with rural midwives attending more educational events recently. Lack of time was a greater barrier for urban midwives, while distance to training was a greater barrier for rural midwives.",
+      "final_decision": "maybe"
+    },
+    {
+      "pmid": "15222284",
+      "question": "The effective orifice area/patient aortic annulus area ratio: a better way to compare different bioprostheses?",
+      "normalized_answer": "Comparisons of absolute EOA values grouped by the manufacturers' valve sizes are misleading. The EOA:patient aortic annulus area ratio offers a new hemodynamic index for objective comparisons between valve types.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "25501465",
+      "question": "Evaluation of pediatric VCUG at an academic children's hospital: is the radiographic scout image necessary?",
+      "normalized_answer": "Radiographic scout images in pediatric VCUG did not provide additional valuable information and carried a non-negligible effective dose. Omitting or substituting this step could help reduce radiation exposure in pediatric VCUG.",
+      "final_decision": "no"
+    },
+    {
+      "pmid": "16414216",
+      "question": "Are endometrial polyps from pre-menopausal women similar to post-menopausal women?",
+      "normalized_answer": "Endometrial polyps from pre- and post-menopausal women show differences in hormone receptor expression and cell growth indices, but both groups exhibit increased levels of Bcl-2, an inhibitor of apoptosis.",
+      "final_decision": "no"
+    },
+    {
+      "pmid": "19155657",
+      "question": "Does accompanying metabolic syndrome contribute to heart dimensions in hypertensive patients?",
+      "normalized_answer": "Metabolic syndrome is associated with left atrial enlargement in hypertensive patients, while left ventricular dimensions are primarily influenced by hypertension.",
+      "final_decision": "maybe"
+    },
+    {
+      "pmid": "27050489",
+      "question": "What is the prevalence of incidentally detected idiopathic misty mesentery on computed tomography (CT) and is there a potential association with obesity?",
+      "normalized_answer": "The prevalence of incidentally detected idiopathic misty mesentery on CT was 7%. There is a potential association between obesity and misty mesentery appearance on CT.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "24977765",
+      "question": "Are pediatric concussion patients compliant with discharge instructions?",
+      "normalized_answer": "Pediatric patients discharged from the ED are mostly compliant with concussion instructions, but some return to play on the day of injury without medical clearance or while symptomatic.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "19130332",
+      "question": "Is the zeolite hemostatic agent beneficial in reducing blood loss during arterial injury?",
+      "normalized_answer": "Zeolite application led to decreased total blood loss and slower drop in blood pressure, but did not completely stop bleeding. Further clinical trials are needed to determine its routine use.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "23949294",
+      "question": "Treatment as prevention in resource-limited settings: is it feasible to maintain HIV viral load suppression over time?",
+      "normalized_answer": "Maintaining viral load suppression over time in resource-limited settings is feasible.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "18926458",
+      "question": "Are octogenarians at high risk for carotid endarterectomy?",
+      "normalized_answer": "Age alone should not place patients in the high-risk category for carotid endarterectomy.",
+      "final_decision": "no"
+    },
+    {
+      "pmid": "10749257",
+      "question": "Has the mammography quality standards act affected the mammography quality in North Carolina?",
+      "normalized_answer": "The implementation of the Mammography Quality Standards Act in 1995 led to a significant improvement in the quality of mammography in North Carolina, as evidenced by increased compliance with federal regulations.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "17610439",
+      "question": "Do hospitals provide lower quality care on weekends?",
+      "normalized_answer": "Weekend hospitalization leads to delayed provision of intensive procedures and elevated 1-year mortality for elderly AMI patients.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "26859535",
+      "question": "Screening History Among Women with Invasive Cervical Cancer in an Academic Medical Center: Will We Miss Cancers Following Updated Guidelines?",
+      "normalized_answer": "Updated Pap test screening guidelines may not have missed invasive cancer on average among screened women aged 30 and older. However, women aged 21-29 years may have an increased risk of developing invasive adenocarcinoma of the cervix between the recommended screening intervals.",
+      "final_decision": "no"
+    },
+    {
+      "pmid": "25446909",
+      "question": "Is oral mucocele/ranula considered another human immunodeficiency virus-related salivary gland disease?",
+      "normalized_answer": "The study suggests a clinical link between oral mucoceles/ranulas and HIV infection, indicating that HIV-positive patients are more likely to present with these conditions.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "17220021",
+      "question": "Is there an increase in the incidence of GBS carrier rates among pregnant women in northern Israel?",
+      "normalized_answer": "The study reported a significant increase in GBS colonization among pregnant women in northern Israel, with a higher rate in Arab women compared to Jewish women.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "10158597",
+      "question": "Does a dedicated discharge coordinator improve the quality of hospital discharge?",
+      "normalized_answer": "The introduction of a discharge coordinator improved the quality of discharge planning.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "21198823",
+      "question": "Can dobutamine stress echocardiography induce cardiac troponin elevation?",
+      "normalized_answer": "No elevation of cardiac troponin was observed after dobutamine stress echocardiography, even in the presence of wall motion abnormalities.",
+      "final_decision": "no"
+    },
+    {
+      "pmid": "17259061",
+      "question": "Does parental restriction of R-rated movie viewing reduce adolescent smoking susceptibility?",
+      "normalized_answer": "Parental restriction of R-rated movie viewing is associated with lower adolescent smoking susceptibility.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "18375490",
+      "question": "Are laboratories reporting serum quantitative hCG results correctly?",
+      "normalized_answer": "Errors in reporting hCG results include mistaking intact hCG for total beta hCG and vice versa, likely due to the complexity of hCG molecules, confusion in nomenclature, lack of awareness among lab personnel, unclear reagent labeling, and insufficient information in product inserts.",
+      "final_decision": "no"
+    },
+    {
+      "pmid": "24142776",
+      "question": "Do steroids in aminoglycoside-containing ear drops reduce cochlear toxicity?",
+      "normalized_answer": "The study suggests that hearing loss caused by gentamicin ear drops may be reduced by including betamethasone and benzalkonium chloride. Betamethasone alone was associated with hearing loss, indicating benzalkonium chloride may be the protective agent in combination ear drops.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "18388848",
+      "question": "Does having a regular primary care clinician improve quality of preventive care for young children?",
+      "normalized_answer": "Having a regular primary care clinician for young children is associated with modest gains in interpersonal quality and no differences in content of anticipatory guidance. The benefit may primarily occur in interpersonal quality for certain subgroups.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "22251324",
+      "question": "Does performance in selection processes predict performance as a dental student?",
+      "normalized_answer": "Pre-admission test scores did not predict performance in the dental programme, whether measured in second year or in final year.",
+      "final_decision": "no"
+    },
+    {
+      "pmid": "27896825",
+      "question": "Is it time to reconsider lobectomy in low-risk paediatric thyroid cancer?",
+      "normalized_answer": "Ultrasound and histopathology can help identify children with well-differentiated thyroid cancer who may be suitable for lobectomy instead of total thyroidectomy, potentially reducing risks and medical/psychosocial issues.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "22117569",
+      "question": "Is an advance care planning model feasible in community palliative care?",
+      "normalized_answer": "An advance care planning model is feasible for community palliative care services, with quality audit processes being essential and documentation of advance care planning discussions established as an important outcome measure.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "25787073",
+      "question": "Do preoperative serum C-reactive protein levels predict the definitive pathological stage in patients with clinically localized prostate cancer?",
+      "normalized_answer": "Preoperative CRP levels in clinically localized prostate cancer patients do not predict the definitive pathological stage.",
+      "final_decision": "no"
+    },
+    {
+      "pmid": "14631523",
+      "question": "Is sub-classification of low-grade cerebellar astrocytoma clinically meaningful?",
+      "normalized_answer": "Histological sub-classification of low-grade cerebellar astrocytomas in children is insufficient for predicting prognosis and biological behavior. Tumor grade has no prognostic significance within this patient group. Complete surgical removal of the tumor, especially if located in the fourth ventricle, is crucial for long-term survival.",
+      "final_decision": "no"
+    },
+    {
+      "pmid": "26717802",
+      "question": "After CLASS--Is a voluntary public insurance program a realistic way to meet the long-term support and service needs of adults with disabilities?",
+      "normalized_answer": "Interest in PAS insurance among middle-aged adults was high, but willingness to pay for coverage varied. Lack of publicly subsidized insurance for long-term care and personal assistance services is still a gap in the disability service system.",
+      "final_decision": "no"
+    },
+    {
+      "pmid": "23810330",
+      "question": "Is intraoperative neuromonitoring associated with better functional outcome in patients undergoing open TME?",
+      "normalized_answer": "TME with intraoperative neuromonitoring was associated with lower rates of urinary and anorectal dysfunction in this study.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "19027440",
+      "question": "Can we predict which head and neck cancer survivors develop fears of recurrence?",
+      "normalized_answer": "Optimism was found to be the strongest predictor of fear of cancer recurrence in head and neck cancer survivors, independent of anxiety and level of fear reported prior to treatment.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "24446763",
+      "question": "Does secular growth acceleration occur during fetal life?",
+      "normalized_answer": "The study did not find significant changes in fetal biometric parameters over the last three decades, suggesting that secular growth acceleration may not exist in the prenatal period or the observed time period may have been too short to manifest this phenomenon.",
+      "final_decision": "no"
+    },
+    {
+      "pmid": "9444542",
+      "question": "Does hippocampal atrophy on MRI predict cognitive decline?",
+      "normalized_answer": "Hippocampal atrophy on MRI was not found to predict subsequent cognitive decline in this study.",
+      "final_decision": "no"
+    },
+    {
+      "pmid": "23389866",
+      "question": "Chemoradiotherapy in the management of locally advanced squamous cell carcinoma esophagus: is surgical resection required?",
+      "normalized_answer": "No difference in clinical toxicity profiles or survival outcomes observed between definitive chemoradiotherapy or chemoradiation followed by surgery for locally advanced esophageal cancer.",
+      "final_decision": "no"
+    },
+    {
+      "pmid": 19142546,
+      "question": "Does quantitative left ventricular regional wall motion change after fibrous tissue resection in endomyocardial fibrosis?",
+      "normalized_answer": "Global left ventricular ejection fraction and regional wall motion do not change after fibrous tissue resection in endomyocardial fibrosis patients, despite improved clinical symptoms postoperatively.",
+      "final_decision": "no"
+    },
+    {
+      "pmid": 9107172,
+      "question": "Bridge experience with long-term implantable left ventricular assist devices. Are they an alternative to transplantation?",
+      "normalized_answer": "Medium-term experience with implantable LVAD support is encouraging. Further investigation is needed to study the role of LVADs as an alternative to medical management.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "9363244",
+      "question": "Does occupational nuclear power plant radiation affect conception and pregnancy?",
+      "normalized_answer": "Occupational exposure to ionizing radiation from nuclear power plants may be a factor in temporary sterility and early pregnancy disorders.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "10411439",
+      "question": "Is the Lloyd-Davies position with Trendelenburg safe during pelvic surgery?",
+      "normalized_answer": "The modified lithotomy position during pelvic surgery is not associated with lower limb ischemia. However, adding Trendelenburg position can cause profound lower limb ischemia, followed by hyperperfusion in the muscle compartments during recovery, potentially putting patients at risk of lower limb compartment syndrome.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "21166749",
+      "question": "Is patient outcome compromised during the initial experience with robot-assisted radical cystectomy?",
+      "normalized_answer": "Initial experience with robot-assisted radical cystectomy did not affect the incidence of positive surgical margins, operative/postoperative complications, or overall survival in a single-institution series.",
+      "final_decision": "no"
+    },
+    {
+      "pmid": "27818079",
+      "question": "Is the Retromandibular Transparotid Approach a Reliable Option for the Surgical Treatment of Condylar Fractures?",
+      "normalized_answer": "The retromandibular transparotid approach is considered a viable and safe option for surgically treating condylar fractures based on the study's results.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "25982163",
+      "question": "Appendectomy timing: Will delayed surgery increase the complications?",
+      "normalized_answer": "Delaying appendectomy did not increase postoperative complications in our study, suggesting that it can be performed as a semielective surgery.",
+      "final_decision": "no"
+    },
+    {
+      "pmid": "20353735",
+      "question": "Treatment of vitamin D deficiency in CKD patients with ergocalciferol: are current K/DOQI treatment guidelines adequate?",
+      "normalized_answer": "Current K/DOQI guidelines are inadequate for correcting VDDI or secondary hyperparathyroidism in CKD patients. Future studies should examine the effects of higher or more frequent dosing of ergocalciferol on these clinical endpoints.",
+      "final_decision": "no"
+    },
+    {
+      "pmid": "24630333",
+      "question": "Comparing femoral version after intramedullary nailing performed by trauma-trained and non-trauma trained surgeons: is there a difference?",
+      "normalized_answer": "Post-operative femoral version did not significantly differ between trauma-trained and non-trauma trained surgeons following intramedullary nailing of diaphyseal femur fractures. Prospective data is needed to make a definitive comparison without bias.",
+      "final_decision": "no"
+    },
+    {
+      "pmid": "27096199",
+      "question": "Does Viral Co-Infection Influence the Severity of Acute Respiratory Infection in Children?",
+      "normalized_answer": "Multiple viruses in children with acute respiratory infection do not significantly affect severity, but bacterial superinfection worsens the disease. Pneumococcal vaccination is protective.",
+      "final_decision": "no"
+    },
+    {
+      "pmid": "22519710",
+      "question": "Will clinical studies elucidate the connection between the length of storage of transfused red blood cells and clinical outcomes?",
+      "normalized_answer": "The power of ongoing RCTs to detect a significant association between the storage duration of red blood cells and clinical outcomes is limited. Adjusting the maximum storage time to 35 days as a precautionary measure is recommended.",
+      "final_decision": "no"
+    },
+    {
+      "pmid": "12040336",
+      "question": "Does admission to a tertiary center improve survival in elderly patients with cardiogenic shock complicating acute myocardial infarction?",
+      "normalized_answer": "In a community-based cohort, patients with acute myocardial infarction complicated by cardiogenic shock did not have significantly different adjusted 30-day and 1-year mortality, irrespective of the revascularization capabilities of the admitting hospital.",
+      "final_decision": "no"
+    },
+    {
+      "pmid": "15918864",
+      "question": "Learning needs of postpartum women: does socioeconomic status matter?",
+      "normalized_answer": "The study emphasizes the importance of addressing the learning needs of postpartum women, especially those of low socioeconomic status, by providing accessible community-based information resources.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "23601294",
+      "question": "Pitfalls in urinary stone identification using CT attenuation values: are different scanner models providing consistent information?",
+      "normalized_answer": "Variability exists when comparing different brands and models of CT scanners directly. CT scan analysis and HU evaluation may not provide enough information to characterize and identify renal stone composition.",
+      "final_decision": "no"
+    },
+    {
+      "pmid": "21361755",
+      "question": "Laminoplasty outcomes: is there a difference between patients with degenerative stenosis and those with ossification of the posterior longitudinal ligament?",
+      "normalized_answer": "Patients with cervical myelopathy from degenerative stenosis or segmental OPLL have comparable perioperative results and neurological outcomes with laminoplasty. VAS neck pain scores did not significantly improve postoperatively for either group, and laminoplasty may restrict extension ROM.",
+      "final_decision": "no"
+    },
+    {
+      "pmid": "9003088",
+      "question": "Immunohistochemical assessment of steroid hormone receptors in tissues of the anal canal. Implications for anal incontinence?",
+      "normalized_answer": "ER is present in the connective tissue and smooth muscle cells of the anal canal. ER and PR are not found in the striated muscle fibers of the external anal sphincter. The presence of ER in these tissues suggests they may respond to estrogen, potentially impacting anal continence.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "23337545",
+      "question": "Is acute fibrinous and organizing pneumonia the expression of immune dysregulation?",
+      "normalized_answer": "AFOP could be the result of immune dysregulation in this pediatric case with favorable outcome after immunosuppressive therapy and hematopoietic stem cell transplantation.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "10490564",
+      "question": "Can profound hypotensive events cause myocardial ischaemic events in patients with coronary disease?",
+      "normalized_answer": "Hypotension in patients with coronary disease can lead to symptomatic and silent ischaemia, particularly associated with low diastolic pressures, indicating a potential link between hypotension and ischaemic events in these patients.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "23375036",
+      "question": "An HIV1/2 point of care test on sputum for screening TB/HIV co-infection in Central India - Will it work?",
+      "normalized_answer": "The OraQuick® HIV-1/2 Assay in sputum specimens showed 90% sensitivity and 100% specificity compared to serum ELISA, making it a potential tool for HIV surveillance in TB patients, especially in areas with low HIV prevalence.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "11555508",
+      "question": "Do inhaled corticosteroids affect perception of dyspnea during bronchoconstriction in asthma?",
+      "normalized_answer": "Eosinophilic inflammation of the airway wall may increase perception of dyspnea, and the association of eosinophil counts with inhaled corticosteroids may lessen the perception of dyspnea.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "16778275",
+      "question": "Is routine chest radiography after transbronchial biopsy necessary?",
+      "normalized_answer": "Routine chest radiography after bronchoscopy with transbronchial biopsy is necessary only in patients with symptoms suggestive of pneumothorax. In asymptomatic patients, routine chest radiography is not necessary as pneumothorax is rare and usually small.",
+      "final_decision": "no"
+    },
+    {
+      "pmid": "27136599",
+      "question": "Is it safe to perform rectal anastomosis in gynaecological debulking surgery without a diverting stoma?",
+      "normalized_answer": "Rectal anastomosis during gynaecological debulking surgery can be safely performed without a diverting stoma by an experienced surgeon.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": 27050505,
+      "question": "Does angiotensin-converting enzyme-1 (ACE-1) gene polymorphism lead to chronic kidney disease among hypertensive patients?",
+      "normalized_answer": "ACE-DD genotype may be a risk factor for chronic kidney failure in hypertensive patients.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "18403945",
+      "question": "Does laparoscopic antireflux surgery improve quality of life in patients whose gastro-oesophageal reflux disease is well controlled with medical therapy?",
+      "normalized_answer": "Laparoscopic antireflux surgery significantly improved quality of life in reflux patients whose symptoms were well controlled on medical therapy.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "11149643",
+      "question": "Is semi-closed endarterectomy of the superficial femoral artery combined with a short venous bypass in case of insufficient venous material an acceptable alternative for limb-threatening ischemia?",
+      "normalized_answer": "Semi-closed endarterectomy of the superficial femoral artery combined with a short venous bypass is a good alternative for patients with limb-threatening ischemia and insufficient venous material for a straightforward femorocrural reconstruction.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "26200172",
+      "question": "Can biofeedback training of psychophysiological responses enhance athletes' sport performance?",
+      "normalized_answer": "Biofeedback training of psychophysiological responses was reported to enhance athletic performance according to participants in the experimental group one year after the training program.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "18783922",
+      "question": "Do cytokines have any role in epilepsy?",
+      "normalized_answer": "Increased post-ictal serum cytokine levels were found in patients with various epilepsy syndromes.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "12684740",
+      "question": "Is cue-induced behavioural activation a novel model of alcohol craving?",
+      "normalized_answer": "Cue-induced behavioural activation specific to alcohol cues was reproducible, persistent, and could be blocked by naltrexone, suggesting it as a potentially useful model for studying alcohol craving.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "25155638",
+      "question": "Can routine offering of influenza vaccination in office-based settings reduce racial and ethnic disparities in adult influenza vaccination?",
+      "normalized_answer": "Improved office-based practices regarding influenza vaccination could significantly impact Healthy People 2020 goals by increasing influenza vaccine uptake and reducing corresponding racial and ethnic disparities.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "26820719",
+      "question": "Colorectal cancer in young patients: is it a distinct clinical entity?",
+      "normalized_answer": "Colorectal cancer in young patients may have unique clinical characteristics. Further research is necessary to confirm these findings and determine the best management for this group.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "21080127",
+      "question": "Can implant retention be recommended for treatment of infected TKA?",
+      "normalized_answer": "Implant retention can be selectively considered for infected TKA, especially in cases of non-S. aureus infection, with polyethylene exchange in selected patients.",
+      "final_decision": "maybe"
+    },
+    {
+      "pmid": "18086459",
+      "question": "Long-term significance of postictal psychotic episodes II. Are they predictive of interictal psychotic episodes?",
+      "normalized_answer": "A history of postictal psychotic episodes may be a risk factor for the development of interictal psychotic episodes, but it is not an independent predictor based on multivariate analysis.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "11978239",
+      "question": "Do primary care physicians underprescribe antibiotics for peptic ulcer disease?",
+      "normalized_answer": "Italian primary care physicians appropriately target eradication therapy for H. pylori infection in patients with peptic ulcer disease more than nonulcer disease, but the intervention is still underused and improvements in prescribing behavior are necessary.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "10798511",
+      "question": "Blunt trauma in intoxicated patients: is computed tomography of the abdomen always necessary?",
+      "normalized_answer": "In hemodynamically stable, intoxicated blunt trauma patients with normal abdominal exam and mentation, the incidence of abdominal injury is low. Clinical evaluation and risk factors assessment can accurately evaluate the abdomen without the need for CT.",
+      "final_decision": "no"
+    },
+    {
+      "pmid": "15477551",
+      "question": "Chronic progressive cervical myelopathy with HTLV-I infection: Variant form of HAM/TSP?",
+      "normalized_answer": "The cases may belong to a variant form of HAM/TSP, predominantly involving the cervical cord levels.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "19327500",
+      "question": "Gender difference in survival of resected non-small cell lung cancer: histology-related phenomenon?",
+      "normalized_answer": "Women had better survival than men, especially in adenocarcinoma subset, but no survival advantage in propensity-matched gender pairs.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "24614789",
+      "question": "Is lumbar drainage of postoperative cerebrospinal fluid fistula after spine surgery effective?",
+      "normalized_answer": "Lumbar drainage appears effective and safe in treating postoperative cerebrospinal fluid fistulas after spine surgery.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "23283159",
+      "question": "Is obesity a risk factor for wheezing among adolescents?",
+      "normalized_answer": "Obesity at the start of adolescence is associated with asthma symptom persistence.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": 16465002,
+      "question": "Dose end-tidal carbon dioxide measurement correlate with arterial carbon dioxide in extremely low birth weight infants in the first week of life?",
+      "normalized_answer": "There is good correlation and agreement between end-tidal CO2 and arterial CO2 in ELBW infants in the EtCO2 range 30-50 mmHg.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "24191126",
+      "question": "Is CA72-4 a useful biomarker in differential diagnosis between ovarian endometrioma and epithelial ovarian cancer?",
+      "normalized_answer": "CA72-4 determination can be useful to confirm the benign nature of ovarian endometriomas in women with high CA125 levels.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "25218577",
+      "question": "Preservation of the PCL when performing cruciate-retaining TKA: Is the tibial tuberosity a reliable predictor of the PCL footprint location?",
+      "normalized_answer": "Tibial tuberosity can predict the PCL footprint location and the risk of PCL damage during TKA, aiding in surgical planning and potentially reducing postoperative complications.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "20488985",
+      "question": "Did the English antibiotic awareness campaigns change the public's knowledge and attitudes towards antibiotic use?",
+      "normalized_answer": "The 2008 English antibiotic campaigns did not show significant improvement in public knowledge or attitudes towards antibiotic use.",
+      "final_decision": "no"
+    },
+    {
+      "pmid": "11567820",
+      "question": "Does increased nerve length within the treatment volume improve trigeminal neuralgia radiosurgery?",
+      "normalized_answer": "Increasing the treatment volume to include a longer nerve length for trigeminal neuralgia radiosurgery does not significantly improve pain relief but may increase complications.",
+      "final_decision": "no"
+    },
+    {
+      "pmid": "19100463",
+      "question": "Is the affinity column-mediated immunoassay method suitable as an alternative to the microparticle enzyme immunoassay method as a blood tacrolimus assay?",
+      "normalized_answer": "The affinity column-mediated immunoassay (ACMIA) method for tacrolimus assay is precise, does not require pretreatment, and is minimally affected by hematologic or biochemical factors.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "12769830",
+      "question": "Should tumor depth be included in prognostication of soft tissue sarcoma?",
+      "normalized_answer": "Tumor depth's prognostic value in soft tissue sarcomas of the extremity or trunk wall is mainly due to its association with tumor size.",
+      "final_decision": "no"
+    },
+    {
+      "pmid": "10331115",
+      "question": "Is amoxapine an atypical antipsychotic?",
+      "normalized_answer": "Amoxapine shows a profile similar to established atypical antipsychotics in PET data, suggesting it may be considered an 'atypical' antipsychotic agent for treating schizophrenia.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "17483607",
+      "question": "Does topical N-acetylcysteine application after myringotomy cause severe otorrhea?",
+      "normalized_answer": "Topical N-acetylcysteine application after myringotomy may cause severe otorrhea in the healing process of tympanic membrane perforations.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "28056802",
+      "question": "Is non-HDL-cholesterol a better predictor of long-term outcome in patients after acute myocardial infarction compared to LDL-cholesterol?",
+      "normalized_answer": "Non-attaining non-HDL-C goal predicted MACE at long-term follow-up after AMI whereas non-attaining LDL-C goal was not associated with higher risk, suggesting non-HDL-C may be a more suitable treatment target than LDL-C in these patients.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "11776681",
+      "question": "Is intrapartum vibroacoustic stimulation an effective predictor of fetal acidosis?",
+      "normalized_answer": "Intrapartum vibroacoustic stimulation was found to be an effective predictor of fetal acidosis in cases of FHR variable decelerations, but its predictability for fetal acidosis in cases of FHR late decelerations was limited. Both VAS and fetal blood pH are good predictors of neonatal morbidity.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "24922528",
+      "question": "The association of puberty and young adolescent alcohol use: do parents have a moderating role?",
+      "normalized_answer": "Family factors did not moderate the association between pubertal stage and adolescent alcohol use.",
+      "final_decision": "no"
+    },
+    {
+      "pmid": "8200238",
+      "question": "Must early postoperative oral intake be limited to laparoscopy?",
+      "normalized_answer": "Early oral intake is possible after laparotomy and colorectal resection, suggesting that early tolerated oral intake may not be unique to laparoscopy.",
+      "final_decision": "no"
+    },
+    {
+      "pmid": "10593212",
+      "question": "Does loss of consciousness predict neuropsychological decrements after concussion?",
+      "normalized_answer": "The study found no significant differences in neuropsychological test performance between patients with traumatic loss of consciousness (LOC), no LOC, or uncertain LOC after head injury.",
+      "final_decision": "no"
+    },
+    {
+      "pmid": "12630042",
+      "question": "Does body mass index (BMI) influence morbidity and long-term survival in gastric cancer patients after gastrectomy?",
+      "normalized_answer": "Body mass index is a prognostic factor for stage 2 and stage 3a gastric cancer but not for stage 1a, 1b, 3b, and 4a gastric cancers.",
+      "final_decision": "maybe"
+    },
+    {
+      "pmid": "24519615",
+      "question": "Does patella position influence ligament balancing in total knee arthroplasty?",
+      "normalized_answer": "Patella eversion resulted in smaller joint gaps compared to patella reduction, especially in knee flexion. Intraoperative patellar positioning affects joint gap measurement, emphasizing the importance of keeping the patella reduced during gap balancing.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "24267613",
+      "question": "Is advanced age a contraindication to GERD laparoscopic surgery?",
+      "normalized_answer": "Age does not contraindicate laparoscopic antireflux surgery for GERD, as it is safe and effective even in elderly patients with low complication rates and symptom improvement comparable to younger patients.",
+      "final_decision": "no"
+    },
+    {
+      "pmid": "21074975",
+      "question": "Ultra high risk (UHR) for psychosis criteria: are there different levels of risk for transition to psychosis?",
+      "normalized_answer": "UHR intake criteria predict transition over 6 months in the order of Trait alone<APS<BLIPS. BLIPS patients are at the highest risk of transition, suggesting the need for clinical attention, especially early in treatment.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "19712912",
+      "question": "Has the 80-hour workweek improved surgical resident education in New England?",
+      "normalized_answer": "The 80-hour workweek has not shown significant improvements or detrimental effects on surgical education within residency programs in New England.",
+      "final_decision": "no"
+    },
+    {
+      "pmid": "12690589",
+      "question": "Can continuous physical training counteract aging effect on myoelectric fatigue?",
+      "normalized_answer": "Physical training may counteract the selective loss of type II muscle fibers typically seen in aging muscles, as observed in physically active individuals. Tailored physical training could help mitigate the effects of aging on muscle fiber distribution.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "10757151",
+      "question": "Does ischemic preconditioning require reperfusion before index ischemia?",
+      "normalized_answer": "The preconditioning effect does not depend on intermittent reperfusion. The protective mechanism of ischemic preconditioning develops during the initial ischemia preceding the index ischemia.",
+      "final_decision": "no"
+    },
+    {
+      "pmid": "15388567",
+      "question": "Are sports medicine journals relevant and applicable to practitioners and athletes?",
+      "normalized_answer": "The evidence base in sports medicine literature lacks studies on diagnostic and treatment interventions, indicating a need for more research of higher quality and quantity.",
+      "final_decision": "no"
+    },
+    {
+      "pmid": "10877371",
+      "question": "Does head positioning influence anterior chamber depth in pseudoexfoliation syndrome?",
+      "normalized_answer": "Head positioning influences anterior chamber depth in patients with clinically apparent unilateral pseudoexfoliation syndrome, causing a shallower anterior chamber when the head is placed in a prone position.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "22324545",
+      "question": "Are polymorphisms in oestrogen receptors genes associated with lipid levels in response to hormone therapy?",
+      "normalized_answer": "Polymorphisms in ESR1 and ESR2 genes may influence lipid levels in postmenopausal women receiving hormone therapy, with ESR1 rs2813544 affecting LDL-C and ESR2 rs1256049 associated with T-chol and LDL-C.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "19419587",
+      "question": "Sternal plating for primary and secondary sternal closure; can it improve sternal stability?",
+      "normalized_answer": "Transverse sternal plating with 1 or 4 plates significantly improves sternal stability closure in human cadaver model.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "16909975",
+      "question": "Can dose reduction to one parotid gland prevent xerostomia?",
+      "normalized_answer": "Minimizing radiation dose to one parotid gland with intensity-modulated radiotherapy in advanced head and neck cancers can prevent xerostomia in most patients.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": 18799291,
+      "question": "Is the histidine triad nucleotide-binding protein 1 (HINT1) gene a candidate for schizophrenia?",
+      "normalized_answer": "Data suggests that variants at HINT1 may be associated with schizophrenia, with potential sex-specific associations. However, markers showing associations are closely linked to other genes, making it challenging to differentiate the signals. Further independent studies may be needed to clarify the role of HINT1 in schizophrenia.",
+      "final_decision": "no"
+    },
+    {
+      "pmid": "12163782",
+      "question": "Increased neutrophil migratory activity after major trauma: a factor in the etiology of acute respiratory distress syndrome?",
+      "normalized_answer": "Major blunt trauma enhances the migratory capacity of circulating neutrophils, potentially due to changes in interleukin-8 response. This alteration is seen within 2 hours of admission. Elevated neutrophil counts in trauma patients decrease rapidly over 24 hours. Enhanced neutrophil migration and high interleukin-8 levels in the lungs may contribute to the development of acute respiratory distress syndrome.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "16392897",
+      "question": "BCRABL transcript detection by quantitative real-time PCR : are correlated results possible from homebrew assays?",
+      "normalized_answer": "Quantitative real-time PCR assays for BCRABL detection can be comparable between laboratories despite differences in methodologies if the same positive control cell line and quality control gene are used.",
+      "final_decision": "maybe"
+    },
+    {
+      "pmid": "19615731",
+      "question": "Does higher body mass index contribute to worse asthma control in an urban population?",
+      "normalized_answer": "No association found between obesity or increasing BMI level and asthma control in an urban population with asthma.",
+      "final_decision": "no"
+    },
+    {
+      "pmid": "18537964",
+      "question": "Does a physician's specialty influence the recording of medication history in patients' case notes?",
+      "normalized_answer": "Physicians' specialties significantly influence the depth and frequency of medication history documentation in patient medical records.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "25747932",
+      "question": "Living in an urban environment and non-communicable disease risk in Thailand: Does timing matter?",
+      "normalized_answer": "Urban exposure was associated with increases in behavioral and physiological risk factors for non-communicable diseases. The impact on biological risk factors may be influenced by a combination of long-term exposure and early life exposures.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "17445978",
+      "question": "Is renal warm ischemia over 30 minutes during laparoscopic partial nephrectomy possible?",
+      "normalized_answer": "Kidney damage occurs during laparoscopic partial nephrectomy when warm ischemia is over 30 minutes, and efforts should be made to keep warm ischemia within 30 minutes.",
+      "final_decision": "no"
+    },
+    {
+      "pmid": "19309468",
+      "question": "Does a febrile reaction to platelets predispose recipients to red blood cell alloimmunization?",
+      "normalized_answer": "Preliminary data suggest that recipient inflammation may impact red blood cell alloimmunization in humans, but further research is needed to fully understand this association.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "25885219",
+      "question": "Maternal creatine homeostasis is altered during gestation in the spiny mouse: is this a metabolic adaptation to pregnancy?",
+      "normalized_answer": "Maternal creatine homeostasis changes during pregnancy, possibly to meet the metabolic needs of maternal tissues, the placenta, and the fetus.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "26348845",
+      "question": "Pap smears with glandular cell abnormalities: Are they detected by rapid prescreening?",
+      "normalized_answer": "Rapid prescreening (RPS) can detect glandular cell abnormalities on Pap smears, with a sensitivity of 36.4% at the atypical glandular cells (AGC) threshold. Some cases of AGC are only detected by RPS, showing its value as a quality assurance method.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "12221908",
+      "question": "Is there evidence of a possible systemic inflammatory response in pre-eclampsia associated with the HELLP syndrome?",
+      "normalized_answer": "Renal damage, low platelets, and elevated liver enzymes were observed in women with two or more pregnancies with HELLP syndrome, suggesting similarities with Systemic Inflammatory Response Syndrome (SIRS).",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "21904069",
+      "question": "Should one rely on the short gastric arteries for blood supply in spleen-preserving distal pancreatectomy with resection of the splenic vessels?",
+      "normalized_answer": "Short gastric arteries were not found to be engaged in the blood supply to the spleen after spleen-preserving distal pancreatectomy with resection of the splenic vessels. The left gastroepiploic artery was identified as the main collateral vessel in all cases.",
+      "final_decision": "no"
+    },
+    {
+      "pmid": "14976655",
+      "question": "Delayed peripheral facial palsy in the stapes surgery: can it be prevented?",
+      "normalized_answer": "Poststapedectomy-delayed facial palsy may result from reactivation of HSV-1, more common in patients with a history of herpes labialis. Adequate acyclovir therapy can help prevent it.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "22644412",
+      "question": "Does selective embolization affect the prognosis of patients with hepatocellular carcinoma?",
+      "normalized_answer": "Selective embolization is a significant prognostic factor for survival in patients with hepatocellular carcinoma.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": 26419377,
+      "question": "Are pelvic anatomical structures in danger during arthroscopic acetabular labral repair?",
+      "normalized_answer": "Pelvic structures may be at risk of injury during acetabular drilling for anchor placement. Careful drilling techniques are important to prevent iatrogenic injury.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "23052500",
+      "question": "Staging laparoscopy in patients with hepatocellular carcinoma: is it useful?",
+      "normalized_answer": "The overall yield of staging laparoscopy for hepatocellular carcinoma was 7%, with an accuracy of 27%. When accurate imaging methods and percutaneous liver biopsy are used in preoperative workup, the benefit of staging laparoscopy may decrease.",
+      "final_decision": "no"
+    },
+    {
+      "pmid": "26104852",
+      "question": "Can echocardiography and ECG discriminate hereditary transthyretin V30M amyloidosis from hypertrophic cardiomyopathy?",
+      "normalized_answer": "A classification method using echocardiography and ECG features can differentiate between hereditary transthyretin amyloidosis and hypertrophic cardiomyopathy, with high sensitivity and specificity.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "9142039",
+      "question": "Does pediatric housestaff experience influence tests ordered for infants in the neonatal intensive care unit?",
+      "normalized_answer": "Interns order significantly more arterial blood gases per infant than junior and senior residents on-call in the neonatal ICU.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "18399830",
+      "question": "Is robotically assisted laparoscopic radical prostatectomy less invasive than retropubic radical prostatectomy?",
+      "normalized_answer": "Robotically assisted laparoscopic prostatectomy (RALP) induces lower tissue trauma than radical retropubic prostatectomy (RRP) as shown in this study.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "18575014",
+      "question": "Nasal polyposis: is there an inheritance pattern?",
+      "normalized_answer": "The study discusses the possibility of a recessive autosomal mode of inheritance based on consanguineous unions in the family.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "15223779",
+      "question": "Is c-Kit a potential therapeutic target for uveal melanoma cells?",
+      "normalized_answer": "The study confirms high expression of c-kit in uveal melanoma cells, indicating its potential as a therapeutic target with STI571.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "24487044",
+      "question": "Pharmacologic regimens for knee osteoarthritis prevention: can they be cost-effective?",
+      "normalized_answer": "DMOADs for OA prevention in high-risk individuals may be comparable to other preventive therapies in terms of cost-effectiveness.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "12377809",
+      "question": "Is anorectal endosonography valuable in dyschesia?",
+      "normalized_answer": "Anorectal endosonography is valuable in diagnosing pelvic floor dyssynergia or anismus in patients with dyschesia.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "16195477",
+      "question": "Production of chemokines by perivascular adipose tissue: a role in the pathogenesis of atherosclerosis?",
+      "normalized_answer": "Perivascular adipose tissue produces chemokines that have chemotactic properties, potentially contributing to obesity-associated atherosclerosis.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "16678696",
+      "question": "Continuity of care experience of residents in an academic vascular department: are trainees learning complete surgical care?",
+      "normalized_answer": "The continuity-of-care experiences of vascular trainees are suboptimal, especially in postoperative clinic assessment. Same-day admission surgery had the poorest continuity of care. Vascular programs need to adapt training to include sufficient ambulatory experience.",
+      "final_decision": "no"
+    },
+    {
+      "pmid": "18801797",
+      "question": "Household and food shopping environments: do they play a role in socioeconomic inequalities in fruit and vegetable consumption?",
+      "normalized_answer": "Improving access to fruit and vegetables in household and food shopping environments may have limited impact on population consumption levels and reducing socioeconomic inequalities.",
+      "final_decision": "no"
+    },
+    {
+      "pmid": "12153648",
+      "question": "Does birth center care during a woman's first pregnancy have any impact on her future reproduction?",
+      "normalized_answer": "Model of care, like birth center care, during a woman's first pregnancy does not appear to significantly influence subsequent reproduction in Sweden.",
+      "final_decision": "no"
+    },
+    {
+      "pmid": "12632437",
+      "question": "Are environmental factors important in primary systemic vasculitis?",
+      "normalized_answer": "Farming, silica, solvents, and allergies show significant associations with primary systemic vasculitis.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "10201555",
+      "question": "Is low serum chloride level a risk factor for cardiovascular mortality?",
+      "normalized_answer": "Low serum chloride level is associated with total, cardiovascular disease (CVD), and non-CVD mortalities, independently of other factors, based on a population-based study.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "21342862",
+      "question": "Is EQ-5D a valid quality of life instrument in patients with acute coronary syndrome?",
+      "normalized_answer": "The Turkish version of the EQ-5D is a valid instrument for assessing quality of life in patients with acute coronary syndrome.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "26818046",
+      "question": "Could Adult European Pharmacoresistant Epilepsy Patients Be Treated With Higher Doses of Zonisamide?",
+      "normalized_answer": "High doses of zonisamide (>500 mg/d) were effective and safe in adult patients with pharmacoresistant epilepsy. Therapeutic drug monitoring of zonisamide may be considered if there is therapeutic failure.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "18005142",
+      "question": "Does early migraine treatment shorten time to headache peak and reduce its severity?",
+      "normalized_answer": "Early treatment and use of triptans may lead to shorter duration from migraine headache onset to its peak but did not alleviate headache severity at peak.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "11481172",
+      "question": "Does the manic/mixed episode distinction in bipolar disorder patients run true over time?",
+      "normalized_answer": "The study suggests a pattern of diagnostic stability over time for manic and mixed episodes in patients with bipolar disorder.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "19230985",
+      "question": "Post-tonsillectomy late haemorrhage: is it a preferably night-time event?",
+      "normalized_answer": "In this study, post-tonsillectomy late haemorrhages were more likely to occur at night, with 71.2% happening during nighttime hours and 28.8% during daytime hours. A statistically significant difference was found between night-time and day-time haemorrhages.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "17295865",
+      "question": "Acute hepatitis C in Israel: a predominantly iatrogenic disease?",
+      "normalized_answer": "Acute hepatitis C in Israel was predominantly transmitted iatrogenically, with injecting drug use being the second most common route of infection.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "17565137",
+      "question": "Will an advertisement targeting the tobacco industry affect young people's perception of smoking in movies and their intention to smoke?",
+      "normalized_answer": "An antismoking advertisement shown before movies with smoking scenes may help non-smokers resist the influence of smoking by film stars. However, the type of advertisement shown should be chosen carefully to avoid reinforcing smokers' intentions to smoke.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "18041059",
+      "question": "Do adjuvant aromatase inhibitors increase the cardiovascular risk in postmenopausal women with early breast cancer?",
+      "normalized_answer": "Aromatase inhibitors were associated with a higher risk of grade 3 and 4 cardiovascular events compared to tamoxifen in postmenopausal women with early breast cancer, with a statistically significant difference. The number needed to harm ranged from 160 to 180 patients.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "17274051",
+      "question": "Metastatic carcinoma to the cervical nodes from an unknown head and neck primary site: Is there a need for neck dissection?",
+      "normalized_answer": "Definitive radiotherapy to the neck and potential mucosal sites, with or without neck dissection, is effective for achieving good local control in unknown primary head and neck cancer. The indication for neck dissection, especially for early nodal stage, is controversial.",
+      "final_decision": "no"
+    },
+    {
+      "pmid": "26460153",
+      "question": "Cardiac reoperations in octogenarians: Do they really benefit?",
+      "normalized_answer": "Results show sustainable recovery in survivors of cardiac reoperations in octogenarians, indicating redo interventions should not be contraindicated based on age alone.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "24061619",
+      "question": "Location and number of sutures placed for hiatal hernia repair during laparoscopic adjustable gastric banding: does it matter?",
+      "normalized_answer": "Number or location of sutures during hiatal hernia repair in laparoscopic adjustable gastric banding does not significantly impact 30-day readmission, band-related reoperation, or postoperative weight loss. Patients with fewer or anterior sutures have shorter operating room times.",
+      "final_decision": "no"
+    },
+    {
+      "pmid": 26867834,
+      "question": "Is Alveolar Macrophage Phagocytic Dysfunction in Children With Protracted Bacterial Bronchitis a Forerunner to Bronchiectasis?",
+      "normalized_answer": "Alveolar macrophage phagocytic capacity is reduced in children with protracted bacterial bronchitis and bronchiectasis, potentially leading to neutrophilic inflammation and colonization by nontypeable Haemophilus influenzae (NTHi). The role of this dysfunction in the progression from protracted bacterial bronchitis to bronchiectasis is not yet determined.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "22349635",
+      "question": "Do elderly patients benefit from surgery in addition to radiotherapy for treatment of metastatic spinal cord compression?",
+      "normalized_answer": "Elderly patients with metastatic spinal cord compression did not benefit from surgery in addition to radiotherapy in terms of functional outcome, local control of metastatic spinal cord compression, or survival.",
+      "final_decision": "no"
+    },
+    {
+      "pmid": "15112004",
+      "question": "Are WHO/UNAIDS/UNICEF-recommended replacement milks for infants of HIV-infected mothers appropriate in the South African context?",
+      "normalized_answer": "No home-prepared replacement milks in South Africa meet all estimated micronutrient and essential fatty acid requirements of infants aged<6 months. Commercial infant formula is the only replacement milk that meets all nutritional needs. Revisions of WHO/UNAIDS/UNICEF HIV and infant feeding course replacement milk options are needed. If replacement milks are to provide total nutrition, preparations should include vegetable oils, such as soybean oil, as a source of linoleic and alpha-linolenic acids, and additional vitamins and minerals.",
+      "final_decision": "no"
+    },
+    {
+      "pmid": "15954832",
+      "question": "Is minilaparoscopic inguinal hernia repair feasible?",
+      "normalized_answer": "The study suggests that minilaparoscopic inguinal hernia repair (miniTAPP) is safe and effective, presenting a challenging alternative to traditional laparoscopy.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "19640728",
+      "question": "Surgical treatment of prosthetic valve endocarditis in patients with double prostheses: is single-valve replacement safe?",
+      "normalized_answer": "TEE accurately diagnosed the site of infection, guiding surgical intervention. Single-valve replacement based on echocardiography findings may be safe for patients with prosthetic valve endocarditis and double prostheses.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "22154448",
+      "question": "Epidural analgesia for surgical treatment of peritoneal carcinomatosis: a risky technique?",
+      "normalized_answer": "Epidural analgesia for hyperthermic intraperitoneal chemotherapy (HIPEC) in this study did not show increased risks of haemodynamic instability, spinal haematoma, meningitis, or epidural abscess. Safety was maintained with optimized fluid management and adherence to anesthesia guidelines.",
+      "final_decision": "no"
+    },
+    {
+      "pmid": "11146778",
+      "question": "Risk stratification in emergency surgical patients: is the APACHE II score a reliable marker of physiological impairment?",
+      "normalized_answer": "The APACHE II score should be measured before surgical treatment for risk stratification in emergency surgical patients. Longitudinal scoring shows improvement in surviving patients but does not impact individual patient care.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "8199520",
+      "question": "Are physicians meeting the needs of family caregivers of the frail elderly?",
+      "normalized_answer": "Physicians may be uninterested in helping caregivers, poorly remunerated for counseling sessions, and being a professional caregiver to family caregivers is demanding.",
+      "final_decision": "no"
+    },
+    {
+      "pmid": "9100537",
+      "question": "Can nonproliferative breast disease and proliferative breast disease without atypia be distinguished by fine-needle aspiration cytology?",
+      "normalized_answer": "Distinguishing between nonproliferative breast disease and proliferative breast disease without atypia is challenging due to significant overlap in cytologic features.",
+      "final_decision": "no"
+    },
+    {
+      "pmid": 26518378,
+      "question": "Are Reviewers' Scores Influenced by Citations to Their Own Work?",
+      "normalized_answer": "Cited reviewers in a specialty journal gave higher scores than noncited reviewers, possibly due to being assigned higher-quality manuscripts. Requests for citations to the reviewer's work were rare.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "23774337",
+      "question": "Does the central venous pressure predict fluid responsiveness?",
+      "normalized_answer": "Central venous pressure is not reliable for predicting fluid responsiveness and should not be used to guide fluid therapy.",
+      "final_decision": "no"
+    },
+    {
+      "pmid": "16151770",
+      "question": "Memory-provoked rCBF-SPECT as a diagnostic tool in Alzheimer's disease?",
+      "normalized_answer": "Memory provocation increased the sensitivity of rCBF-SPECT for detecting AD-related blood flow changes in the brain at the group level. Further research is needed to assess its diagnostic utility at the individual level.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": 26418441,
+      "question": "Can we ease the financial burden of colonoscopy?",
+      "normalized_answer": "Endoscopists in a tertiary care setting can accurately predict diminutive polyp histology and determine appropriate surveillance intervals, leading to cost savings per patient.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "20130378",
+      "question": "Is low birth weight a risk indicator for congenital cytomegalovirus infection?",
+      "normalized_answer": "Low birth weight and small head circumference at birth did not predict congenital CMV infection. CMV-DNA detection in umbilical cord blood at delivery is recommended for diagnosis.",
+      "final_decision": "no"
+    },
+    {
+      "pmid": "11799314",
+      "question": "Is external palliative radiotherapy for gallbladder carcinoma effective?",
+      "normalized_answer": "External radiotherapy appears to be a safe and effective palliative treatment for gallbladder carcinoma, but more research is needed to clarify its role in treatment.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "20828836",
+      "question": "Is discordance in TEOAE and AABR outcomes predictable in newborns?",
+      "normalized_answer": "Discordant TEOAE and AABR outcomes in newborns may be predictable based on maternal and infant factors, such as antenatal care status, mode of delivery, and nursery type.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": 19608436,
+      "question": "Chemical shift MRI: is there any contribution to morphologic evaluation of solid breast masses?",
+      "normalized_answer": "Chemical shift subtraction can contribute to morphologic analysis of solid breast masses, particularly for evaluating margins of benign lesions in fatty breasts and masses in dense breasts.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "15995461",
+      "question": "Do some U.S. states have higher/lower injury mortality rates than others?",
+      "normalized_answer": "Group 1 states tend to have above-average rates for most categories of injury death, while Group 2 states tend to have below-average rates for most categories of injury death.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "23224030",
+      "question": "Do European people with type 1 diabetes consume a high atherogenic diet?",
+      "normalized_answer": "European individuals with type 1 diabetes consume a high atherogenic diet as few patients met recommendations for dietary fibre and saturated fat.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "17910536",
+      "question": "Can reading comprehension ability be improved in adults with mild intellectual disabilities?",
+      "normalized_answer": "The intervention program in the study showed positive effects on reading comprehension ability in adults with mild intellectual disabilities.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "12070552",
+      "question": "Do antibiotics decrease post-tonsillectomy morbidity?",
+      "normalized_answer": "Post-tonsillectomy antibiotics did not reduce postoperative morbidity.",
+      "final_decision": "no"
+    },
+    {
+      "pmid": 18182265,
+      "question": "Body diffusion-weighted MR imaging of uterine endometrial cancer: is it helpful in the detection of cancer in nonenhanced MR imaging?",
+      "normalized_answer": "Diffusion-weighted imaging can aid in the detection of uterine endometrial cancer in nonenhanced MR imaging.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "15841770",
+      "question": "Do inhaled steroids differ from cromones in terms of hospital admission rates for asthma in children?",
+      "normalized_answer": "Inhaled steroids are better than cromones in preventing admissions for asthma in children.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "8017535",
+      "question": "Substance use and HIV-related sexual behaviors among US high school students: are they related?",
+      "normalized_answer": "Substance use among high school students in the US is associated with risky sexual behaviors that increase the likelihood of HIV infection.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": 24172579,
+      "question": "Does sex influence the response to intravenous thrombolysis in ischemic stroke?",
+      "normalized_answer": "Intravenous thrombolysis may modify survival and recovery advantage for men, with a possible larger beneficial treatment effect in women.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "10781708",
+      "question": "Does prophylaxis in all hospitalised medical patients make sense for thrombosis prevention?",
+      "normalized_answer": "Prophylaxis in all internal patients for venous thrombosis is not justified based on the low incidence during hospitalisation in a general internal medicine department. Cancer is a significant risk factor for hospital-acquired thrombosis in the medical ward, warranting further investigation for prophylaxis in this subgroup.",
+      "final_decision": "no"
+    },
+    {
+      "pmid": "26561905",
+      "question": "Do teleoncology models of care enable safe delivery of chemotherapy in rural towns?",
+      "normalized_answer": "Chemotherapy delivery in rural towns via teleoncology supervised by medical oncologists from larger centers appears safe when supported by adequate healthcare resources and governance.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "17089900",
+      "question": "Does Paget's disease exist in India?",
+      "normalized_answer": "Paget's disease has been documented in India, as evidenced by a study describing 21 patients with the condition.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "26536001",
+      "question": "Is There an Additional Value of Using Somatostatin Receptor Subtype 2a Immunohistochemistry Compared to Somatostatin Receptor Scintigraphy Uptake in Predicting Gastroenteropancreatic Neuroendocrine Tumor Response?",
+      "normalized_answer": "sst2a IHC of tumor samples does not provide additional value compared to SRS uptake using OctreoScan® in predicting tumor response after PRRT.",
+      "final_decision": "no"
+    },
+    {
+      "pmid": "19643525",
+      "question": "Can vaginal pH be measured from the wet mount slide?",
+      "normalized_answer": "Vaginal pH should be measured by bringing the pH strip in direct contact with fresh vaginal fluid without first adding saline.",
+      "final_decision": "no"
+    },
+    {
+      "pmid": 26285789,
+      "question": "Does Molecular Genotype Provide Useful Information in the Management of Radioiodine Refractory Thyroid Cancers?",
+      "normalized_answer": "BRAF mutation was associated with longer progression-free survival in patients with papillary thyroid carcinoma treated with tyrosine kinase inhibitors, but further research is needed to understand its impact on different types of thyroid cancers.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "22266735",
+      "question": "Screening for gestational diabetes mellitus: are the criteria proposed by the international association of the Diabetes and Pregnancy Study Groups cost-effective?",
+      "normalized_answer": "The IADPSG recommendation for glucose screening in pregnancy is cost-effective, particularly if postdelivery care reduces diabetes incidence.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "15052394",
+      "question": "Are higher rates of depression in women accounted for by differential symptom reporting?",
+      "normalized_answer": "No evidence of gender differences in the presentation of depressive symptoms was found in this study.",
+      "final_decision": "no"
+    },
+    {
+      "pmid": "23264436",
+      "question": "Follow-up of patients with new cardiovascular implantable electronic devices: are experts' recommendations implemented in routine clinical practice?",
+      "normalized_answer": "The rate of initial follow-up for patients with new cardiovascular implantable electronic devices improved over time, with 42.4% having an in-person visit within 2 to 12 weeks. White patients were more likely to have this follow-up compared to patients of other races.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "22302658",
+      "question": "Does limb-salvage surgery offer patients better quality of life and functional capacity than amputation?",
+      "normalized_answer": "Limb-salvage surgery may provide better gait efficiency and return to normal living compared to above-knee amputation, but does not necessarily improve the patient's perception of quality of life.",
+      "final_decision": "maybe"
+    },
+    {
+      "pmid": "17894828",
+      "question": "Is there a relationship between serum angiotensin-converting enzyme and severe hypoglycaemia in Type 1 diabetes?",
+      "normalized_answer": "A weak relationship was found between serum ACE and the frequency of severe hypoglycaemia, with unclear clinical relevance, limiting its role as an index of risk for severe hypoglycaemia.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "18096128",
+      "question": "Cervical spine fractures in geriatric blunt trauma patients with low-energy mechanism: are clinical predictors adequate?",
+      "normalized_answer": "Clinical predictors are inadequate for the evaluation of the cervical spine in geriatric trauma patients with low-energy mechanism.",
+      "final_decision": "no"
+    },
+    {
+      "pmid": "12913347",
+      "question": "Do microbiological factors account for poor pregnancy outcome among unmarried pregnant women in Poland?",
+      "normalized_answer": "Socioeconomic, demographic, and microbiological differences between unmarried and married pregnant women may contribute to poor pregnancy outcomes among unmarried women in Poland.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "24684514",
+      "question": "Should all patients be optimized to the same preoperative hemoglobin level to avoid transfusion in primary knee arthroplasty?",
+      "normalized_answer": "Individualizing the preoperative hemoglobin optimization target based on ASA score and preoperative Hb level can help reduce transfusion in patients undergoing primary TKA.",
+      "final_decision": "no"
+    },
+    {
+      "pmid": "24793469",
+      "question": "Is there any relation between cervical cord plaques and discopathy in patients with multiple sclerosis?",
+      "normalized_answer": "The study data suggests a possible correlation between cervical discopathy and cervical MS plaque.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "23360491",
+      "question": "Is the processing of affective prosody influenced by spatial attention?",
+      "normalized_answer": "Emotional prosody is partially processed outside the focus of spatial attention, with modulation by spatial attention at early processing stages and processing outside of spatial attention at later stages.",
+      "final_decision": "maybe"
+    },
+    {
+      "pmid": "10340286",
+      "question": "Is there a role for leukocyte and CRP measurements in the diagnosis of acute appendicitis in the elderly?",
+      "normalized_answer": "Elevated leukocyte count and CRP values do not effectively diagnose acute appendicitis in the elderly, but unelevated values can exclude it.",
+      "final_decision": "maybe"
+    },
+    {
+      "pmid": "22954812",
+      "question": "Are bipolar disorders underdiagnosed in patients with depressive episodes?",
+      "normalized_answer": "The prevalence of bipolar disorder in patients with major depressive episodes varies depending on the diagnostic method used, highlighting the importance of using specific criteria in clinical practice.",
+      "final_decision": "maybe"
+    },
+    {
+      "pmid": 18274917,
+      "question": "Prognosis of low-tone sudden deafness - does it inevitably progress to Meniere's disease?",
+      "normalized_answer": "Not all low-tone sudden deafness (SD) patients progress to Meniere's disease; electrocochleography (ECochG) can be a useful prognostic tool.",
+      "final_decision": "no"
+    },
+    {
+      "pmid": "22350859",
+      "question": "Can pictorial warning labels on cigarette packages address smoking-related health disparities?",
+      "normalized_answer": "Pictorial health warning labels with didactic textual forms are more effective than those with testimonial narratives. Research is needed to assess the impact of different pictorial content on consumers from disadvantaged groups.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": 26237424,
+      "question": "Does patient-prosthesis mismatch after aortic valve replacement affect survival and quality of life in elderly patients?",
+      "normalized_answer": "Patient-prosthesis mismatch after aortic valve replacement does not affect survival, functional status, and quality of life in patients aged at least 75 years.",
+      "final_decision": "no"
+    },
+    {
+      "pmid": "15041506",
+      "question": "Is fear of anaphylactic shock discouraging surgeons from more widely adopting percutaneous and laparoscopic techniques in the treatment of liver hydatid cyst?",
+      "normalized_answer": "Fear of anaphylaxis and/or dissemination is the main reason given by surgeons for not widely adopting percutaneous and laparoscopic techniques in the treatment of liver hydatid cyst.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": 25280365,
+      "question": "Reporting and interpreting red blood cell morphology: is there discordance between clinical pathologists and clinicians?",
+      "normalized_answer": "Differences in the clinical relevance of certain RBC-M terms exist between clinicians and CPs. Inclusion of interpretive comments on CBC reports can help ensure accurate interpretation of RBC-M changes. Critical examination of reporting practices is needed to enhance communication and medical decision-making.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "20813740",
+      "question": "Does β-catenin have a role in pathogenesis of sebaceous cell carcinoma of the eyelid?",
+      "normalized_answer": "Cytoplasmic overexpression of β-catenin was observed in the majority of sebaceous cell carcinoma of the eyelid cases, correlating significantly with tumor size. Further research is needed to explore β-catenin's role in the development and prognosis of this carcinoma.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "20401819",
+      "question": "Is ultrasound equal to X-ray in pediatric fracture diagnosis?",
+      "normalized_answer": "Ultrasound has comparable sensitivity to X-ray for identifying limb fractures and is effective for diagnosing fracture type and dislocation, making it a suitable alternative method for pediatric fracture diagnosis.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "7860319",
+      "question": "Measuring hospital mortality rates: are 30-day data enough?",
+      "normalized_answer": "Data on cumulative hospital mortality from 180 days postadmission does not provide a different perspective compared to data from 30 days postadmission for the studied conditions.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "25255719",
+      "question": "Hearing loss: an unknown complication of pre-eclampsia?",
+      "normalized_answer": "Pre-eclampsia is associated with higher hearing thresholds in certain frequencies and may lead to cochlear damage and sensorineural hearing loss. Routine audiological examinations in these patients are recommended for further investigation.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "24352924",
+      "question": "Is portable ultrasonography accurate in the evaluation of Schanz pin placement during extremity fracture fixation in austere environments?",
+      "normalized_answer": "Ultrasound measurements of Schanz pin protrusion may underestimate actual values, with an average 10% underestimation over a range of 5 to 18 mm. Despite this bias, ultrasound shows good correlation with actual values in the 5 to 12 mm range. Interobserver repeatability was high among examiners using ultrasound.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "24973051",
+      "question": "Medical student education in emergency medicine: do students meet the national standards for clinical encounters of selected core conditions?",
+      "normalized_answer": "Most students do not encounter all 10 core conditions during a 4-week EM rotation, but the majority are exposed to at least eight. Some conditions are encountered less frequently and may require nonclinical teaching.",
+      "final_decision": "no"
+    },
+    {
+      "pmid": "20497146",
+      "question": "A model of healing of Los Angeles grades C and D reflux oesophagitis: is there an optimal time of acid suppression for maximal healing?",
+      "normalized_answer": "Successful healing of LA grade C or D oesophagitis may reach a threshold after 4 weeks of acid-suppressive therapy, beyond which further improvements are unlikely despite increasing intragastric pH>4 hours.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "19401574",
+      "question": "Does steady-state imaging improve accuracy of first-pass imaging in gadofosveset-enhanced MR angiography of carotid arteries?",
+      "normalized_answer": "Steady-state imaging is superior to first-pass imaging, but combined imaging is the most accurate for assessing carotid artery stenosis.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "23571528",
+      "question": "Is sternal skin conductance a reasonable surrogate for hot flash measurement?",
+      "normalized_answer": "Findings suggest discordance between device-recorded and self-reported hot flashes, along with limitations in SSC monitoring. It is recommended to explore alternative physiologic surrogate measures for hot flashes.",
+      "final_decision": "no"
+    },
+    {
+      "pmid": "25228241",
+      "question": "Can an elephant trunk in a small-calibre true lumen for chronic aortic dissection cause haemolytic anaemia?",
+      "normalized_answer": "Inserting an elephant trunk in a small-calibre true lumen during surgery for chronic aortic dissection can cause haemolysis and should be avoided.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "22348433",
+      "question": "Does partial expander deflation exacerbate the adverse effects of radiotherapy in two-stage breast reconstruction?",
+      "normalized_answer": "Expander deflation prior to radiotherapy may worsen adverse effects, particularly in the lower expander pole, possibly due to increased blood flow and tissue oxygenation.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "20538207",
+      "question": "Should temperature be monitorized during kidney allograft preservation?",
+      "normalized_answer": "Continuous temperature monitoring during kidney allograft preservation may not be necessary as stable temperature levels were observed with the new storage can.",
+      "final_decision": "no"
+    },
+    {
+      "pmid": "10927144",
+      "question": "Can p53 alterations be used to predict tumour response to pre-operative chemo-radiotherapy in locally advanced rectal cancer?",
+      "normalized_answer": "p53 alteration detected by IHC or SSCP analysis is not a clinically useful predictor of local response to pre-operative adjuvant therapy in advanced rectal carcinoma.",
+      "final_decision": "no"
+    },
+    {
+      "pmid": "20197761",
+      "question": "Is irritable bowel syndrome a diagnosis of exclusion?",
+      "normalized_answer": "IBS is not a diagnosis of exclusion. Experts tend to diagnose IBS with minimal testing, while community providers often believe it is a diagnosis of exclusion, leading to increased resource use.",
+      "final_decision": "maybe"
+    },
+    {
+      "pmid": "21394762",
+      "question": "Is pelvic pain associated with defecatory symptoms in women with pelvic organ prolapse?",
+      "normalized_answer": "Pelvic pain in women with pelvic organ prolapse is associated with defecatory symptoms.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "12442934",
+      "question": "Does ibuprofen increase perioperative blood loss during hip arthroplasty?",
+      "normalized_answer": "Pretreatment with ibuprofen before elective total hip surgery significantly increases perioperative blood loss.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": 9347843,
+      "question": "Laparoscopic-assisted ileocolic resections in patients with Crohn's disease: are abscesses, phlegmons, or recurrent disease contraindications?",
+      "normalized_answer": "Abscesses, phlegmons, or recurrent disease at a previous ileocolic anastomosis are not contraindications to a successful laparoscopic-assisted ileocolic resection in select patients with Crohn's disease.",
+      "final_decision": "no"
+    },
+    {
+      "pmid": 23072266,
+      "question": "Has the use of complementary and alternative medicine therapies by U.S. adults with chronic disease-related functional limitations changed from 2002 to 2007?",
+      "normalized_answer": "The overall use of complementary and alternative medicine (CAM) therapies increased significantly among U.S. adults with chronic disease-related functional limitations from 2002 to 2007, especially in those with changing and maintaining body position limitations.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "12607666",
+      "question": "Is extended aortic replacement in acute type A dissection justifiable?",
+      "normalized_answer": "Complete replacement of all dissected aortic segments can be achieved in some patients with acute aortic dissection, leading to good early and midterm outcomes.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "24074624",
+      "question": "Is intensive monitoring during the first transfusion in pediatric patients necessary?",
+      "normalized_answer": "Intensive observation for the first transfusion in pediatric patients is likely unnecessary.",
+      "final_decision": "no"
+    },
+    {
+      "pmid": "17224424",
+      "question": "Effects of exercise training on heart rate and QT interval in healthy young individuals: are there gender differences?",
+      "normalized_answer": "Exercise training may have different effects on heart rate and QT interval in men and women, with women potentially benefiting more from increased physical activity for cardiovascular health.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "16097998",
+      "question": "Is coeliac disease screening in risk groups justified?",
+      "normalized_answer": "Long-term dietary compliance in screen-detected patients was good. Quality of life and bone mineral density were comparable with those in non-coeliac subjects and the general population. Active screening in coeliac disease risk groups seems to be reasonable rather than harmful.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "25487603",
+      "question": "Analysis of the epidemiological pattern of Shigellosis in Barcelona between 1988 and 2012: Is it an emerging sexually transmitted infection?",
+      "normalized_answer": "The study observed a rising trend in shigellosis cases in males without a history of food poisoning or travel to endemic areas, suggesting a shift towards sexual transmission.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "20594006",
+      "question": "A patient with myelomeningocele: is untethering necessary prior to scoliosis correction?",
+      "normalized_answer": "Spinal cord untethering may be unnecessary in patients with myelomeningocele undergoing scoliosis corrective surgery without clinical symptoms of a tethered cord, despite radiographic evidence of tethering.",
+      "final_decision": "no"
+    },
+    {
+      "pmid": "26363639",
+      "question": "Is aerobic workload positively related to ambulatory blood pressure?",
+      "normalized_answer": "Studies show a significant positive relationship between relative aerobic workload and ambulatory blood pressure, with each 1% increase in mean relative aerobic workload associated with an increase in systolic and diastolic ABP.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "27405146",
+      "question": "What is the prevalence of Streptococcus agalactiae in pregnant women from Melilla and is culture a determinant factor?",
+      "normalized_answer": "The prevalence of vagino-rectal colonization by Streptococcus group B in pregnant women from Melilla is within national estimated figures, with a higher prevalence in the Muslim population compared to the Christian population. There is no observed difference in prevalence based on age.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "17192736",
+      "question": "Is fluoroscopy essential for retrieval of lower ureteric stones?",
+      "normalized_answer": "Ureteroscopic stone retrieval can be safely done without fluoroscopy in many patients to minimize radiation exposure.",
+      "final_decision": "no"
+    },
+    {
+      "pmid": "14652839",
+      "question": "Does the sequence of clamp application during open abdominal aortic aneurysm surgery influence distal embolisation?",
+      "normalized_answer": "No difference in numbers of emboli detected when the first vascular clamp is applied to the proximal aorta or iliacs.",
+      "final_decision": "no"
+    },
+    {
+      "pmid": "12145243",
+      "question": "Are lower fasting plasma glucose levels at diagnosis of type 2 diabetes associated with improved outcomes?",
+      "normalized_answer": "Lower fasting plasma glucose levels at diagnosis of type 2 diabetes were associated with fewer adverse clinical outcomes despite similar glycemic progression.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "25571931",
+      "question": "Do elderly patients call 911 when presented with clinical scenarios suggestive of acute stroke?",
+      "normalized_answer": "Only 14% of elderly patients correctly endorsed the intention to call 911 when presented with signs and symptoms of stroke. On average, the correct response was chosen only 37% of the time.",
+      "final_decision": "maybe"
+    },
+    {
+      "pmid": "19108857",
+      "question": "Cerebromediastinal tuberculosis in a child with a probable Say-Barber-Miller syndrome: a causative link?",
+      "normalized_answer": "The occurrence of cerebro-mediastinal tuberculosis in an immuno-competent child with a probable Say-Barber-Miller syndrome is discussed, exploring a potential causative link between the syndrome and tuberculosis.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "25443385",
+      "question": "Are virtual planning and guided surgery for head and neck reconstruction economically viable?",
+      "normalized_answer": "Virtual planning and guided surgery, including prebent or milled plates, are financially viable for head and neck reconstruction.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": 18719011,
+      "question": "Do overweight children necessarily make overweight adults?",
+      "normalized_answer": "An overweight birth cohort in childhood does not necessarily continue to be overweight in young adulthood.",
+      "final_decision": "no"
+    },
+    {
+      "pmid": "9044116",
+      "question": "Biliary atresia: should all patients undergo a portoenterostomy?",
+      "normalized_answer": "Liver biopsy can help predict which patients may not benefit from a Kasai procedure and should be considered for transplantation instead.",
+      "final_decision": "no"
+    },
+    {
+      "pmid": "23621776",
+      "question": "Does a history of unintended pregnancy lessen the likelihood of desire for sterilization reversal?",
+      "normalized_answer": "Having a prior unintended pregnancy did not decrease desire for sterilization reversal among women who had undergone tubal sterilization.",
+      "final_decision": "no"
+    },
+    {
+      "pmid": "12970636",
+      "question": "Does early discharge with nurse home visits affect adequacy of newborn metabolic screening?",
+      "normalized_answer": "Newborn metabolic screening is not compromised by early discharge with nurse home visits.",
+      "final_decision": "no"
+    },
+    {
+      "pmid": "21084567",
+      "question": "Are stroke patients' reports of home blood pressure readings reliable?",
+      "normalized_answer": "Elderly stroke patients were able to reliably record their blood pressure at home with a small difference compared to monitor readings, which is unlikely to affect management.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "19546588",
+      "question": "Does increasing blood pH stimulate protein synthesis in dialysis patients?",
+      "normalized_answer": "Raising blood pH in dialysis patients did not have a positive effect on albumin and muscle protein synthesis, nutritional, and endocrinal parameters.",
+      "final_decision": "no"
+    },
+    {
+      "pmid": "19923859",
+      "question": "Can T-cell deficiency affect spatial learning ability following toluene exposure?",
+      "normalized_answer": "T-cell deficiency may affect spatial learning performance following toluene exposure.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "18616781",
+      "question": "Is there a relationship between homocysteine and vitiligo?",
+      "normalized_answer": "Elevated homocysteine levels may be associated with vitiligo, especially in individuals with predisposition.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "27991408",
+      "question": "Do dermatomyositis and polymyositis affect similar thigh muscles?",
+      "normalized_answer": "DM affects more thigh muscles than PM, except for the posterior compartment which is equally involved in both disorders.",
+      "final_decision": "no"
+    },
+    {
+      "pmid": "14655021",
+      "question": "Juvenile ankylosing spondylitis--is it the same disease as adult ankylosing spondylitis?",
+      "normalized_answer": "Juvenile ankylosing spondylitis (JAS) in this study showed differences in clinical presentation compared to adult ankylosing spondylitis (AAS), with more frequent onset with peripheral arthritis, and greater involvement of hip and knee joints. Valvular dysfunction was only seen in patients with JAS.",
+      "final_decision": "no"
+    },
+    {
+      "pmid": "26175531",
+      "question": "Is Aspiration Thrombectomy Beneficial in Patients Undergoing Primary Percutaneous Coronary Intervention?",
+      "normalized_answer": "Aspiration thrombectomy before primary PCI does not show benefits on clinical outcomes and may increase the risk of stroke. The use of intravenous glycoprotein IIb/IIIa inhibitors and ischemic time does not appear to affect the potential benefits of aspiration thrombectomy.",
+      "final_decision": "no"
+    },
+    {
+      "pmid": "25168472",
+      "question": "Can static foot posture measurements predict regional plantar surface area?",
+      "normalized_answer": "Static foot posture measurements can predict forefoot and midfoot plantar surface area by 79% and 85% respectively.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "9446993",
+      "question": "Can dentists recognize manipulated digital radiographs?",
+      "normalized_answer": "Dentists are unlikely to detect image manipulations altering the diagnostic content of radiographs. Additional measures for data protection are needed in digital radiography.",
+      "final_decision": "no"
+    },
+    {
+      "pmid": "10473855",
+      "question": "Is delayed gastric emptying following pancreaticoduodenectomy related to pylorus preservation?",
+      "normalized_answer": "Delayed gastric emptying after pylorus-preserving pancreaticoduodenectomy may be reduced by modifying the reconstructive anatomy with an antecolic duodenojejunostomy.",
+      "final_decision": "no"
+    },
+    {
+      "pmid": "28006766",
+      "question": "Is Overexpression of Ki-67 a Prognostic Biomarker of Upper Tract Urinary Carcinoma?",
+      "normalized_answer": "High Ki-67 expression is associated with poor survival and high risk of disease progression in patients with upper tract urinary carcinoma. Large-scale prospective trials are needed to confirm its prognostic value.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "11833948",
+      "question": "Does a delay in transfer to a rehabilitation unit for older people affect outcome after fracture of the proximal femur?",
+      "normalized_answer": "Delay in transfer to a rehabilitation ward was associated with a disproportionate increase in total hospital length of stay for patients aged over 75 with fracture of the proximal femur.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "27757987",
+      "question": "Does the treatment of amblyopia normalise subfoveal choroidal thickness in amblyopic children?",
+      "normalized_answer": "The six-month treatment of amblyopia did not significantly change choroidal thickness in anisometropic hyperopic amblyopic children.",
+      "final_decision": "no"
+    },
+    {
+      "pmid": "16772913",
+      "question": "A comparison of 500 prefilled textured saline breast implants versus 500 standard textured saline breast implants: is there a difference in deflation rates?",
+      "normalized_answer": "There was a statistically significant difference between the overall deflation rates of Poly Implant Prosthesis prefilled textured saline breast implants and Mentor Siltex breast implants at year 2, year 3, and year 4.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "19575104",
+      "question": "Do foreign bodies migrate through the body towards the heart?",
+      "normalized_answer": "Foreign bodies can migrate through the body, but the study does not indicate migration towards the heart. Imaging studies are recommended before endoscopic examination in cases of prolonged histories of foreign body ingestion.",
+      "final_decision": "no"
+    },
+    {
+      "pmid": "24449622",
+      "question": "Is there a relationship between serum paraoxonase level and epicardial fat tissue thickness?",
+      "normalized_answer": "Serum paraoxonase 1 level is not correlated with epicardial fat tissue thickness. However, lower PON 1 levels were observed in patients with epicardial fat tissue thickness of 7 mm and over, indicating a potential association with increased atherosclerosis progression in these patients.",
+      "final_decision": "no"
+    },
+    {
+      "pmid": "12095973",
+      "question": "Chemoradiation instead of surgery to treat mid and low rectal tumors: is it safe?",
+      "normalized_answer": "Exclusive chemoradiation approach for low infiltrative rectal carcinoma may not be safe.",
+      "final_decision": "no"
+    },
+    {
+      "pmid": "23761381",
+      "question": "Is calibration the cause of variation in liquid chromatography tandem mass spectrometry testosterone measurement?",
+      "normalized_answer": "Variation in LC-MS/MS testosterone measurement results was not due to differences in calibrators, but likely due to differences in methodologies between laboratories.",
+      "final_decision": "no"
+    },
+    {
+      "pmid": "16971978",
+      "question": "Are complex coronary lesions more frequent in patients with diabetes mellitus?",
+      "normalized_answer": "Complex coronary lesions like bifurcation and ostial lesions are more common in diabetic patients compared to nondiabetic patients. Greater age and the presence of diabetes mellitus are independent predictors for these lesions.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "10375486",
+      "question": "Are variations in the use of carotid endarterectomy explained by population need?",
+      "normalized_answer": "Variations in carotid endarterectomy use are not solely due to differences in need but are influenced by clinical practice and service availability.",
+      "final_decision": "no"
+    },
+    {
+      "pmid": "21558951",
+      "question": "Are there effects of intrauterine cocaine exposure on delinquency during early adolescence?",
+      "normalized_answer": "In this study, prenatal exposure to cigarettes and childhood exposure to violence are associated with delinquent behaviors during early adolescence, while intrauterine cocaine exposure is not a strong predictor.",
+      "final_decision": "no"
+    },
+    {
+      "pmid": "15528969",
+      "question": "Is expert breast pathology assessment necessary for the management of ductal carcinoma in situ?",
+      "normalized_answer": "Expert breast pathology assessments are necessary in the management of ductal carcinoma in situ.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "17062225",
+      "question": "Thoracic and thoracoabdominal aneurysm repair: is reimplantation of spinal cord arteries a waste of time?",
+      "normalized_answer": "Sacrifice of intercostal and lumbar arteries during repair of thoracic and thoracoabdominal aortic aneurysms without reimplantation is safe, with low rates of paraplegia. Routine surgical implantation of segmental vessels is not indicated.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "14713788",
+      "question": "Is year of radical prostatectomy a predictor of outcome in prostate cancer?",
+      "normalized_answer": "Year of radical prostatectomy is a predictor of outcome when controlling for preoperative features on multivariate analysis.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "24374414",
+      "question": "Does health information exchange reduce redundant imaging?",
+      "normalized_answer": "Health information exchange was associated with reduced repeat imaging in emergency departments, showing reductions in repeat imaging for computed tomography, ultrasound, and chest x-ray tests.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "20736887",
+      "question": "Is decompressive surgery effective for spinal cord sarcoidosis accompanied with compressive cervical myelopathy?",
+      "normalized_answer": "Decompressive surgery did not show clear effectiveness for spinal cord sarcoidosis with compressive myelopathy. Early diagnosis of sarcoidosis and steroid therapy are recommended.",
+      "final_decision": "no"
+    },
+    {
+      "pmid": "22504515",
+      "question": "Endovenous laser ablation in the treatment of small saphenous varicose veins: does site of access influence early outcomes?",
+      "normalized_answer": "The study found no significant differences in complications or recurrence rates based on the site of access for endovenous laser ablation in small saphenous varicose veins.",
+      "final_decision": "no"
+    },
+    {
+      "pmid": "10577397",
+      "question": "Is a pressor necessary during aortic perfusion and oxygenation therapy of cardiac arrest?",
+      "normalized_answer": "The addition of epinephrine to ACLS-SAPO increases vital organ perfusion pressures and improves outcome from cardiac arrest.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "15369037",
+      "question": "Do people who were passive smokers during childhood have increased risk of long-term work disability?",
+      "normalized_answer": "Exposure to environmental tobacco smoke (ETS) at home during childhood is associated with increased risk of long-term sick leave, according to the study.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "24073931",
+      "question": "Is the covering of the resection margin after distal pancreatectomy advantageous?",
+      "normalized_answer": "No significant difference in the fistula rate was found after covering the resection margin following distal pancreatectomy.",
+      "final_decision": "no"
+    },
+    {
+      "pmid": "18472368",
+      "question": "Does treatment duration affect outcome after radiotherapy for prostate cancer?",
+      "normalized_answer": "Longer treatment duration was found to be a negative factor in low-risk patients with prostate cancer.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "23992109",
+      "question": "Is the urinary biomarkers assessment a non-invasive approach to tubular lesions of the solitary kidney?",
+      "normalized_answer": "Urinary biomarkers offer a non-invasive method to assess tubular lesions in the solitary kidney, correlating with renal function decline and aiding in monitoring proximal tubule dysfunction.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "21164063",
+      "question": "Is there a role for fondaparinux in perioperative bridging?",
+      "normalized_answer": "The role of fondaparinux in perioperative bridge therapy has not been established, and there are limitations to its routine use as a bridging agent.",
+      "final_decision": "no"
+    },
+    {
+      "pmid": "21951591",
+      "question": "Motor performance in chronic low back pain: is there an influence of pain-related cognitions?",
+      "normalized_answer": "CLBP patients generally have poorer motor task performance than healthy subjects, and provoking pain-related cognitions worsened their performance.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "18619710",
+      "question": "Patient comprehension of emergency department care and instructions: are patients aware of when they do not understand?",
+      "normalized_answer": "Many patients do not understand their ED care or discharge instructions. Most patients are unaware of their lack of understanding and overestimate their comprehension and recall.",
+      "final_decision": "no"
+    },
+    {
+      "pmid": "18784527",
+      "question": "Can mandibular depiction be improved by changing the thickness of double-oblique computed tomography images?",
+      "normalized_answer": "Depiction of the superior wall of the mandibular canal cannot be improved by changing the thickness of images.",
+      "final_decision": "no"
+    },
+    {
+      "pmid": "15919266",
+      "question": "Adjuvant radiation of stage III thymoma: is it necessary?",
+      "normalized_answer": "Adjuvant radiation therapy after resection of stage III thymoma does not appear to improve disease-specific survival or disease-free survival rates. It may not prevent pleural recurrences, and the routine use of adjuvant radiation in these cases needs further evaluation.",
+      "final_decision": "no"
+    },
+    {
+      "pmid": 2503176,
+      "question": "Inhibin: a new circulating marker of hydatidiform mole?",
+      "normalized_answer": "Serum inhibin concentrations higher than those in the early follicular phase post-evacuation of hydatidiform mole may indicate persistent trophoblastic disease. Further research is required for confirmation.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "22108230",
+      "question": "Is the fibronectin-aggrecan complex present in cervical disk disease?",
+      "normalized_answer": "Biochemical analysis of injured cervical intervertebral disks reveals the presence of the fibronectin-aggrecan complex (FAC) along with inflammatory markers and a correlation with pH.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "20338971",
+      "question": "Does peritoneal dialysis affect halitosis in patients with end-stage renal disease?",
+      "normalized_answer": "Peritoneal dialysis may help reduce halitosis levels in end-stage renal disease patients by lowering BUN levels and increasing salivary flow rates.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": 17276801,
+      "question": "Can elevated troponin I levels predict complicated clinical course and inhospital mortality in patients with acute pulmonary embolism?",
+      "normalized_answer": "Elevated troponin I levels are associated with higher risk for inhospital mortality and complicated clinical course in patients with acute pulmonary embolism.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "20497880",
+      "question": "Is transurethral catheterisation the ideal method of bladder drainage?",
+      "normalized_answer": "The study highlighted discomfort with transurethral catheters, particularly in male patients, and a high incidence of urinary tract infections in both sexes. Alternative methods like suprapubic catheterisation may be considered.",
+      "final_decision": "no"
+    },
+    {
+      "pmid": "23495128",
+      "question": "The colour of pain: can patients use colour to describe osteoarthritis pain?",
+      "normalized_answer": "Using colour to describe pain may be a useful tool for some patients to improve doctor-patient communication.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "26701174",
+      "question": "Inpatient Pediatric Tonsillectomy: Does Hospital Type Affect Cost and Outcomes of Care?",
+      "normalized_answer": "Hospital type impacts costs, outcomes, and patient factors for inpatient tonsillectomy. Further evaluation is needed to understand reasons behind these differences and improve care value.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "24695920",
+      "question": "Does anterior laxity of the uninjured knee influence clinical outcomes of ACL reconstruction?",
+      "normalized_answer": "Greater anterior laxity of the uninjured knee was associated with poorer stability and functional outcomes after ACL reconstruction, suggesting it as a risk factor for inferior outcomes.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "15488260",
+      "question": "Is the type of remission after a major depressive episode an important risk factor to relapses in a 4-year follow up?",
+      "normalized_answer": "Partial remission after a major depressive episode is an important predictive factor for relapses in a 4-year follow-up.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "15466981",
+      "question": "Prostate-specific antigen and free prostate-specific antigen in the early detection of prostate cancer: do combination tests improve detection?",
+      "normalized_answer": "Combination tests of total and percent free PSA show modest improvements over total PSA, potentially reducing unnecessary biopsies below a PSA threshold of 4 ng/mL.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "18603989",
+      "question": "Can homemade alcohol (Raksi) be useful for preserving dead bodies?",
+      "normalized_answer": "Homemade alcohol (Raksi) can be temporarily useful for preserving dead bodies based on the study findings.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "21789019",
+      "question": "Do elderly cancer patients have different care needs compared with younger ones?",
+      "normalized_answer": "Elderly cancer patients have informational and relational needs similar to those of younger patients.",
+      "final_decision": "no"
+    },
+    {
+      "pmid": "14692023",
+      "question": "Is breast cancer survival improving?",
+      "normalized_answer": "The study suggests that the prognosis for patients with recurrent breast cancer improved between 1974 and 2000.",
+      "final_decision": "yes"
+    },
+    {
+      "pmid": "25150098",
+      "question": "Can common carotid intima media thickness serve as an indicator of both cardiovascular phenotype and risk among black Africans?",
+      "normalized_answer": "Common carotid intima media thickness (CIMT) can be a significant indicator of cardiovascular risk and phenotype in adult black Africans, but specific thresholds should be determined through prospective studies.",
+      "final_decision": "yes"
     }
   ]
 }
